@@ -29,8 +29,10 @@ jobs:
       - name: Generate README file
         run: node dist/index.js
         env:
-          OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
+          OPEN_WEATHER_MAP_KEY: ${{ secrets.OPEN_WEATHER_MAP_KEY }}
       - name: Push new README.md
-        uses: mikeal/publish-to-github-action@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: seanmiddleditch/gha-publish-to-git@master
+        with:
+          branch: main
+          github_token: "${{ secrets.GITHUB_TOKEN }}"
+        if: success() && github.event == 'push'
