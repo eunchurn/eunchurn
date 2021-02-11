@@ -75,9 +75,6 @@ async function action() {
   }
   await generateReadMe();
 
-  /**
-   * Fermeture de la boutique 👋
-   */
   await puppeteerService.close();
 }
 
