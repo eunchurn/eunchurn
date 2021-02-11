@@ -87,7 +87,7 @@ class PuppeteerService {
         return [].map.call(images, (img: HTMLImageElement) => img.src);
       });
 
-      return nodes.slice(0, 3);
+      return nodes.slice(0, n);
     } catch (error) {
       console.log('Error', error);
       process.exit();

@@ -34,8 +34,8 @@ async function setWeatherInformation() {
 }
 
 async function setInstagramPosts() {
-  const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('eunchurn', 3);
-  return { img1: instagramImages[0], img2: instagramImages[1], img3: instagramImages[2] };
+  const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('eunchurn', 4);
+  return { img1: instagramImages[0], img2: instagramImages[1], img3: instagramImages[2], img4: instagramImages[3] };
 }
 
 
@@ -65,6 +65,7 @@ async function action() {
     ...weatherInfo,
     ...instaPics,
   };
+  console.log(DATA);
   async function generateReadMe() {
     await fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
       if (err) throw err;
