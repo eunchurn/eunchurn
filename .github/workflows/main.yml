@@ -17,12 +17,12 @@ jobs:
       - name: setup node
         uses: actions/setup-node@v1
         with:
-          node-version: "13.x"
+          node-version: "14.x"
       - name: cache
         uses: actions/cache@v1
         with:
           path: node_modules
-          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+          key: ${{ runner.os }}-js-${{ hashFiles('yarn.lock') }}
       - name: Install dependencies
         run: yarn
       - name: Build src
