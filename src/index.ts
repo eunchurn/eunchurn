@@ -19,7 +19,7 @@ async function setWeatherInformation() {
   return {
     city_temperature: Math.round(temp),
     city_weather: description,
-    city_weather_icon: icon,
+    city_weather_icon: `http://openweathermap.org/img/wn/${icon}@2x.png`,
     sun_rise: new Date(sunrise * 1000).toLocaleString('ko-KR', {
       hour: '2-digit',
       minute: '2-digit',
