@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.6](https://github.com-eunchurn///compare/v1.1.5...v1.1.6) (2021-02-11)
+
+
+### Features
+
+* **icons:** weather ([9a76d2d](https://github.com-eunchurn///commit/9a76d2d0a1f1147813c398ef643ddb5d5838ca61))
+
+
+### Bug Fixes
+
+* **script:** action ([783069a](https://github.com-eunchurn///commit/783069ab3652c480c92f6478f89b2e5d05a10707))
+
 ### [1.1.5](https://github.com-eunchurn///compare/v1.1.4...v1.1.5) (2021-02-11)
 
 
