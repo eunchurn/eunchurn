@@ -9,6 +9,10 @@
       "labels": ["linting"]
     },
     {
+      "matchDepTypes": ["devDependencies"],
+      "automerge": true
+    },
+    {
       "matchDepTypes": ["optionalDependencies"],
       "addLabels": ["optional"]
     },
