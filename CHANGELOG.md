@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.5](https://github.com-eunchurn///compare/v1.1.4...v1.1.5) (2021-02-11)
+
+
+### Features
+
+* **stack:** added ([1a20669](https://github.com-eunchurn///commit/1a20669132d9aabd72cc58fd53a4656763e871e3))
+
 ### [1.1.4](https://github.com-eunchurn///compare/v1.1.3...v1.1.4) (2021-02-11)
 
 
