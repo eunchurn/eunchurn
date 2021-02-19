@@ -35,3 +35,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH_NAME: main
+          USER_NAME: Eunchurn Park
+          USER_EMAIL: eunchurn.park@gmail.com
