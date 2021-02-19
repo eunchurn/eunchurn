@@ -31,7 +31,7 @@ jobs:
         env:
           OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
       - name: Push new README.md
-        uses: eunchurn/action-publish@v1
+        uses: eunchurn/action-publish@v1.1.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH_NAME: main
