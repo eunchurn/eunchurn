@@ -25,6 +25,6 @@
     "@types/mustache": "4.1.1",
     "@types/node-fetch": "2.5.8",
     "standard-version": "9.1.1",
-    "typescript": "4.1.5"
+    "typescript": "4.2.2"
   }
 }
