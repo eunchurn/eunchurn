@@ -19,7 +19,7 @@
     "dotenv": "^10.0.0",
     "mustache": "^4.1.0",
     "node-fetch": "^2.6.1",
-    "puppeteer": "^10.0.0"
+    "puppeteer": "^11.0.0"
   },
   "devDependencies": {
     "@types/mustache": "4.1.2",
