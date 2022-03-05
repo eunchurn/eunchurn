@@ -1,11 +1,9 @@
-import { config } from "dotenv";
+import "dotenv/config";
 import Mustache from "mustache";
 import fetch from "node-fetch";
 import fs from "fs";
 import { puppeteerService } from "./services/puppeteer.service";
 import { Weather } from "./weatherTypes";
-
-config();
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
