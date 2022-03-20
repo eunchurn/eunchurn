@@ -37,7 +37,7 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_LOC_CHART: "False"
-          LOCALE: "ko"
+          LOCALE: "en"
       - name: Push new README.md
         uses: eunchurn/action-publish@v1.1.1
         env:
