@@ -38,10 +38,12 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           SHOW_LOC_CHART: "False"
           LOCALE: "en"
-      - name: Push new README.md
-        uses: eunchurn/action-publish@v1.1.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH_NAME: main
-          USER_NAME: Eunchurn Park
-          USER_EMAIL: eunchurn.park@gmail.com
+          COMMIT_BY_ME: "True"
+          SHOW_UPDATED_DATE: "False"
+      # - name: Push new README.md
+      #   uses: eunchurn/action-publish@v1.1.1
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      #     BRANCH_NAME: main
+      #     USER_NAME: Eunchurn Park
+      #     USER_EMAIL: eunchurn.park@gmail.com
