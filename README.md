@@ -180,15 +180,13 @@
 </table>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C629%20hrs%2020%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-85-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 998 Contributions in the Year 2022
+> 🏆 999 Contributions in the Year 2022
  > 
 > 📦 6.7 MB Used in GitHub's Storage 
  > 
@@ -215,8 +213,8 @@ Tuesday      71 commits     ██░░░░░░░░░░░░░░░�
 Wednesday    33 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.29% 
 Thursday     47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.53% 
 Friday       76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.18% 
-Saturday     169 commits    ██████░░░░░░░░░░░░░░░░░░░   27.08% 
-Sunday       89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.26%
+Saturday     170 commits    ██████░░░░░░░░░░░░░░░░░░░   27.24% 
+Sunday       88 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.1%
 
 ```
 
