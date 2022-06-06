@@ -30,7 +30,6 @@ jobs:
         run: yarn build:readme
         env:
           OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
-      - name: Commit Docs
       - uses: EndBug/add-and-commit@v9
         with:
           add: "README.md"
