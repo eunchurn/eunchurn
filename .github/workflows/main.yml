@@ -30,6 +30,13 @@ jobs:
         run: yarn build:readme
         env:
           OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
+      - name: Commit Docs
+      - uses: EndBug/add-and-commit@v9
+        with:
+          add: "README.md"
+          author_name: Eunchurn Park
+          author_email: eunchurn.park@gmail.com
+          default_author: Eunchurn Park
       - uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
