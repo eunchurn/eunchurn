@@ -27,7 +27,7 @@ jobs:
       - name: Build src
         run: yarn build
       - name: Generate README file
-        run: node dist/index.js
+        run: yarn build:readme
         env:
           OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
       - uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
