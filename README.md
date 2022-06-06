@@ -1,10 +1,50 @@
 [![README build](https://github.com/eunchurn/eunchurn/actions/workflows/main.yml/badge.svg)](https://github.com/eunchurn/eunchurn/actions/workflows/main.yml) [![Unit Test](https://github.com/eunchurn/eunchurn/actions/workflows/unit-test.yml/badge.svg)](https://github.com/eunchurn/eunchurn/actions/workflows/unit-test.yml)
-
 ![eunchurn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eunchurn&show_icons=true)
 
 <h1><img src="kitty_chase_heart.gif" width="60"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Eunchurn, Senior fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="13"/> <b>Seoul, Korea</b>, currently work as a team leader at <img src="https://avatars.githubusercontent.com/u/60495464?s=200&v=4" width="13"/> <a href="https://danbicorp.com" target="_blank"><b>DanbiKorea</b></a>. </p>
+<p>Welcome to my page! </br> I'm Eunchurn, Senior fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="13"/> <b>Seoul, Korea</b>. </p>
+
+
+<h3>Side projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/eunchurn/windrose-chart"><b>React Windrose Chart component</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/windrose-chart?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/windrose-chart?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/eunchurn/windrose-chart?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/eunchurn/windrose-chart?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/eunchurn/mullae-instant"><b>#mullaeinstant</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/mullae-instant?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/mullae-instant?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/eunchurn/mullae-instant?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/eunchurn/mullae-instant?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/eunchurn/vanillajs-typescript-gulp-project-boilerplate"><b>VanillaJS TypeScript Starter</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/vanillajs-typescript-gulp-project-boilerplate?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/vanillajs-typescript-gulp-project-boilerplate?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/eunchurn/vanillajs-typescript-gulp-project-boilerplate?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h3>Things I code with</h3>
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -143,125 +183,13 @@
 <p>
   <a href="https://www.researchgate.net/profile/Eunchurn-Park-2" target="_blank"><img alt="researchgate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white" /></a>
 </p>
-<h3>Side projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/eunchurn/windrose-chart"><b>React Windrose Chart component</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/windrose-chart?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/windrose-chart?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/eunchurn/windrose-chart?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/eunchurn/windrose-chart?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/eunchurn/mullae-instant"><b>#mullaeinstant</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/mullae-instant?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/mullae-instant?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/eunchurn/mullae-instant?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/eunchurn/mullae-instant?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/eunchurn/vanillajs-typescript-gulp-project-boilerplate"><b>VanillaJS TypeScript Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/vanillajs-typescript-gulp-project-boilerplate?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/vanillajs-typescript-gulp-project-boilerplate?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/eunchurn/vanillajs-typescript-gulp-project-boilerplate?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 2,009 Contributions in the Year 2022
- > 
-> 📦 6.7 MB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 99 Public Repositories 
- > 
-> 🔑 121 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    111 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.03% 
-🌆 Daytime    209 commits    ██████░░░░░░░░░░░░░░░░░░░   24.53% 
-🌃 Evening    202 commits    ██████░░░░░░░░░░░░░░░░░░░   23.71% 
-🌙 Night      330 commits    █████████░░░░░░░░░░░░░░░░   38.73%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       124 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.55% 
-Tuesday      138 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.2% 
-Wednesday    69 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.1% 
-Thursday     81 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.51% 
-Friday       105 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.32% 
-Saturday     196 commits    █████░░░░░░░░░░░░░░░░░░░░   23.0% 
-Sunday       139 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.31%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Markdown                 2 hrs 17 mins       ███████████████████████░░   93.43% 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.81% 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.1% 
-EJS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51% 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
-
-🔥 Editors: 
-VS Code                  2 hrs 27 mins       █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      2 hrs 27 mins       █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               35 repos            ██████████░░░░░░░░░░░░░░░   41.18% 
-JavaScript               21 repos            ██████░░░░░░░░░░░░░░░░░░░   24.71% 
-Shell                    10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-C                        3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.53% 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.53%
-
-```
-
-
-
-<!--END_SECTION:waka-->
 
 <h3>More..</h3>
-<p><img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBcaS3SYdxKjf8C2OJ0WgxSZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYz1n4YwrU1lVDz15PkfWTbGPST5T7a+bUe6jvDRk%7C%7CJ9lk7s0KXIXZn6n9MAlUmGpNWwSDv5PHL%7C%7Clo79UvOa0LGFq8zCXW%7C%7CdEnGZK55f0Z7F9mt9wuuS4jkja45BsNz5F%7C%7CH8kKl1lptvN%7C%7C3dbEvf0PMd6trV2QaUNh4kG5OKopCu7Lm4rbzMvR2PZhYXCoOELhn7EU2Ap%7C%7CF6zEvpqe20m2WGagjwy9Jgg1YyEE59Uw%7C%7CQy4Y%7C%7CxfUc2EkUtohBjzbWfkSedRWeL%7C%7CmJz4ibQwbHsJbNy4Jr4eKPNavrdlTuTRJXJLL9WT00iIeTTA1r3csaePvcIo5N7NPVm2AqZ11Xke+XY0BlcEAQMjDHWWsAjZtnIkYvizXnTvS6HpFpsksq9I+A&#x3D;" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBcaS3SYdxKjf8C2OJ0Wg9SZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYz1l7I4rVFxUDD17OkDXTLSJRTtT6KWeUe6gvDZl8pVplbwyK3MWbHGu9ssoUmCpNWwSDv5PHL%7C%7Clo7ge+OXucjMBpi2XMLQT9zJBpY6uSKVKz8J1pJ2Jg3Tt%7C%7C9kiJzJE5m4vMAQspMqP52hEX%7C%7CD+O8BnsaBwVLYBxMQK5qnRlSaHEmw+Jj8uT3agtIj+kOYA2HDHVmIerXGQdqwwDnQhg1u84z53poJzgaOFJrR30%7C%7CRonobmbVdKdipuoxkzsba7k3Pgb0KI%7C%7CmJzhWPQwO7mP6pgqZ2tdaOidO+k7nL5aeb3Wa5pEDc9FtSHYwrsEtuzUeFBzo18T+5g+Hu0xFSNTb%7C%7CG0wlVJXNFhmndXsEpEqzI4emb%7C%7CHTvkTSK%7C%7CVA5lsrjKA&#x3D;&#x3D;" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBcaS3SYdxKjf8C2OJ0WgxSZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYz1k4oMpWFpXDT17NU3dQbCATTZU56qdU+bN1TVj959pl7szKXQZYXGn88cpVAmYdSgIGaYDG7uo%7C%7CesJ+fPucjcBojOMNbBGmDdttdCwFahlza4lsfe4kx2xu5xncG114WNxahlw5OLUqQUCSKnjMcF6saR5UvoIjNBQpr6gmCG2GGM5b295BTGS9IjOkqg8iyDXdzQspjD3FO8EIU8hjl246kAV46U%7C%7Cpa27G481+MZhsqruZ1lBWmhm+jVMlpDtuiTvSUGI%7C%7CgVRwGKOlf7lNPEu+8WgGtKpDI3llAvJdKTKDrlAemw1Wfv0V2vMDtagBPsUncYZOasa4nya+S67VrTV8gQ3CzAX1WbYKMJTFdjb+6GnzWTZhmDZogE9yJ8&#x3D;" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBcaS3SYdxKjf8C2OJ0Wg9SZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYz5j5IwvUllQCj17NULWTreKRT1U7KqaUubN2zRh%7C%7CJJglro8LnQeYHSv9sElVAmYdSgIGaYDG7uo+qhT5aGuO1lQpTb9d7JGmC4E5ZObS6olhMF4pJ2Jg3Tt%7C%7C9kiJzJE5m4vMAQspMqP52hEX%7C%7CD+O8BnsaBwVLYBxMQK5qnRlSaHEmw+Jj8uTnagtIj+kOYA2AL9YQcS3mCVVbkoDnQhlXGTsxN3poJzgaOFJrR30%7C%7CRonobmbVdKdipuoxkzsba7k3Pgb0KI%7C%7CmJzhWPQwO7mP6pgqZ2tdaOidO+w%7C%7CjmYUYLWErJrdXcnA+blcFryK%7C%7CeuL81zjpJONtZYjk%7C%7Ck3jbvJob2ihE8NXNFhmndXsEpEKjNnOmb%7C%7CHTvkTSK%7C%7CVA5lsrjKA&#x3D;&#x3D;" /></p>
-<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> 4°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;01n@2x.png" /><i>clear sky</i></b><br />Today, the sun rises at <b>오전 06:36</b> and sets at <b>오후 06:42</b>.</p>
+<p><img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBcaS3SYdxKjf8fx+9wWgxSZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYz1n7YIrU1tWCz1zO0TYTLSLTjlc6KyYVebN2zRu95NpkL89KHwYY3Kn9cQkXAmYdSgIGaYDG7uo%7C%7CeoS%7C%7C+XucjIFoy2WNLET9zJBpY6uSKVKz8B1pJ2Jg3Tt%7C%7C9kiJzJE5m4vMAQxu8eL52tEX%7C%7CD+O8BnsaBwVLYBxMQK5qnRlSaHEmw+Jj8vRnagtIj+kOYA2HPQQzgsy1uAc6YODnQhr1vqvhV3t4gj1aSAMok99PkakIH2bSAEXG428Fk71pu1ynOdV0Gd4HJTy0iG14qgXPUljYygHdDITO%7C%7CCng7jW5bGIa1oWkgfJtfgY3LeA9KCBt8fmY4SSqpvhwjmoFb7S7734wB4AGgdgTKNVME&#x3D;" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBcaS3SYdxKjf8fx+9wWgxSZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYz1n7IwtVlhWAz18OkzfTryITD9c7KqRXe3N0j1v9pFklr09KnwfbHWo9colUwmYdSgIGaYDG7uo+qhT5aGuO1lQpTb9d7JGmC4E5ZObS6olhMF4pJ2Jg3Tt%7C%7C9kiJzJE5m4vMAQxu8eL52tEX%7C%7CD+O8BnsaBwVLYBxMQK5qnRlSaHEmw+Jj8uQ3agtIj+kOYA2AHSQmU%7C%7ComCoUaIsDnRGqFuBnzR3t4gj1aSAMok99PkakIH2bSAEXG428Fk71pu1ynOdV0Gdh1dY4kTSzISCc6oRsqe9FtiPeu+43nP6WeDGQKJ6Dl4CLK3MQAbxD+GfEfkfmY4SSqpvgwzj1FT7S7734wB4AGgdgTKNVME&#x3D;" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBcaS3SYdxKjf8fx+9wWgxSZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYz1n7IMqVVRQCD17PUHXQbWJRT9W66WfU+yivDdn9pBokL01JHAdYXGp9cskVWKpNWwSDv5PHL%7C%7Clo79UvOa0LGFq8zCXW%7C%7CdEnGZK55f0Z7F9mt9wuuS4jkja45BsNz5F%7C%7CH8kKl1lu8TA+3dbEvf0PMd6trV2QaUNh4kG5OKopCu7Lm4rbzMvR2LZhYXCoOELhn7ZVScSzDT0F6IaLG0mzGqTsA9i9IkqhdiDFotpidM%7C%7Ck4H2bUdBXG9p+kMjxdKyn36dOF+I6xsA7lPck56FXNkCsrbJdb7FB8LM1RDXd7DcDLZGYlEqUsnmZVz7McSjHsFO0IRKQa4c9guTqF7oMo%7C%7C63yxiDTEX1DaNCsoj" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBcaS3SYdxKjf8fx+9wWgxSZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYz1n4YwrU1lVDz15PkfWTbGPST5T7a+bUe6jvDRk%7C%7CJ9lk7s0KXIXZn6n9MAlUmGpNWwSDv5PHL%7C%7Clo79UvOa0LGFq8zCXW%7C%7CdEnGZK55f0Z7F9mt9wuuS4jkja45BsNz5F%7C%7CH8kKl1lu8TA+3dbEvf0PMd6trV2QaUNh4kG5OKopCu7Lm4rbzMvR2PZhYXCoOELhn76cngN0nuBUJ08Dm0mzAyxjxE09Jgg1ZW1HKRKwd8LiajVaGstXEotohBjzbWfkSedRWeL%7C%7CmJz4ibQwbHsJbNz4Jr4eKPNavrdlTn0YuDRGJFgDks+JfXaRgrxFsKFENh4xLtdHc12xgmQwyetJeTOjgZzOxQMjDHWWsBRFty8kYvizXnTvS6HpFpsksq9I+A&#x3D;" /></p>
+<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> 16°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;04n@2x.png" /><i>broken clouds</i></b><br />Today, the sun rises at <b>오전 05:11</b> and sets at <b>오후 07:50</b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/ecpark-danbi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/eunchurn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://soundcloud.com/eunchurn"><img alt="SoundCloud" src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 3월 20일 일요일 오후 8:40 GMT+9<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 6월 7일 화요일 오전 3:38 GMT+9<br />
 <p align="center"><img src="https://github.com/eunchurn/eunchurn/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/></p>
