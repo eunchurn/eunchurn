@@ -45,77 +45,6 @@
 </table>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C780%20hrs%2058%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-84-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 2,058 Contributions in the Year 2022
- > 
-> 📦 6.7 MB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 99 Public Repositories 
- > 
-> 🔑 121 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    108 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.23% 
-🌆 Daytime    203 commits    █████░░░░░░░░░░░░░░░░░░░░   22.99% 
-🌃 Evening    208 commits    ██████░░░░░░░░░░░░░░░░░░░   23.56% 
-🌙 Night      364 commits    ██████████░░░░░░░░░░░░░░░   41.22%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       122 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.82% 
-Tuesday      159 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.01% 
-Wednesday    83 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.4% 
-Thursday     79 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.95% 
-Friday       105 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
-Saturday     196 commits    █████░░░░░░░░░░░░░░░░░░░░   22.2% 
-Sunday       139 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.74%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               35 repos            ██████████░░░░░░░░░░░░░░░   41.18% 
-JavaScript               21 repos            ██████░░░░░░░░░░░░░░░░░░░   24.71% 
-Shell                    10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-C                        3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.53% 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.53%
-
-```
-
-
-
- Last Updated on 07/06/2022 21:18:00 UTC
 <!--END_SECTION:waka-->
 
 <h3>Things I code with</h3>
@@ -259,10 +188,10 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 <h3>More..</h3>
 <p><img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBcaS3SYdxKjf8fx+9wWgxSZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYz1n7YIrU1tWCz1zO0TYTLSLTjlc6KyYVebN2zRu95NpkL89KHwYY3Kn9cQkXAmYdSgIGaYDG7uo%7C%7CeoS%7C%7C+XucjIFoy2WNLET9zJBpY6uSKVKz8B1pJ2Jg3Tt%7C%7C9kiJzJE5m4vMAQxu8eL52tEX%7C%7CD+O8BnsaBwVLYBxMQK5qnRlSaHEmw+Jj8vRnagtIj+kOYA2HPQQzgsy1uAc6YODnRHt0a24iB3t4gj1aSAMok99PkakIH2bSAEXG428Fk71pu1ynOdV0Gd4HBt2mSD8qeDffoWr6PPLvqrZsm8wHOZdrvfLbJWfy8KWKXkW06RBaGsMukfmY4SSqpvhnzhqFb7S7734wB4AGgdgTKNVME&#x3D;" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBcaS3SYdxKjf8fx+9wWgxSZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYz1n7IwtVlhWAz18OkzfTryITD9c7KqRXe3N0j1v9pFklr09KnwfbHWo9colUwmYdSgIGaYDG7uo+qhT5aGuO1lQpTb9d7JGmC4E5ZObS6olhMF4pJ2Jg3Tt%7C%7C9kiJzJE5m4vMAQxu8eL52tEX%7C%7CD+O8BnsaBwVLYBxMQK5qnRlSaHEmw+Jj8uQ3agtIj+kOYA2AHSQmU%7C%7ComCoUaIsDnQhiXm9vg93t4gj1aSAMok99PkakIH2bSAEXG428Fk71pu1ynOdV0Gdh3dL4lHU8ZDiR%7C%7Co%7C%7C64%7C%7C1dfeQAY+x2g76Y6mTNZBUam0rKd7xQBLaOveSVukfmY4SSqpvgQzkoVT7S7734wB4AGgdgTKNVME&#x3D;" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBcaS3SYdxKjf8fx+9wWgxSZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYz1n7IMqVVRQCD17PUHXQbWJRT9W66WfU+yivDdn9pBokL01JHAdYXGp9cskVWKpNWwSDv5PHL%7C%7Clo79UvOa0LGFq8zCXW%7C%7CdEnGZK55f0Z7F9mt9wuuS4jkja45BsNz5F%7C%7CH8kKl1lu8TA+3dbEvf0PMd6trV2QaUNh4kG5OKopCu7Lm4rbzMvR2LZhYXCoOELhn7ZVScSzDT0F6IaLG0mzHOMkh0e9IkqhdiDFotpidM%7C%7Ck4H2bUdBXG9p+kMjxdKyn36dOF+I6xtZzHjBxKbnd%7C%7CAjiI%7C%7CmM%7C%7CuqYez69XbQW7KOPpJFWFc4Ov2ORG%7C%7CNN+COL9l40IRKQa4c9guTqF7oMo%7C%7C63yxiDTEX1DaNCsoj" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBcaS3SYdxKjf8fx+9wWgxSZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYz1n4YwrU1lVDz15PkfWTbGPST5T7a+bUe6jvDRk%7C%7CJ9lk7s0KXIXZn6n9MAlUmGpNWwSDv5PHL%7C%7Clo79UvOa0LGFq8zCXW%7C%7CdEnGZK55f0Z7F9mt9wuuS4jkja45BsNz5F%7C%7CH8kKl1lu8TA+3dbEvf0PMd6trV2QaUNh4kG5OKopCu7Lm4rbzMvR2PZhYXCoOELhn7qID4b12OhaKw3Am0mzFyIjlsQ9Jgg1aSTBZlZjccAhbGHGW4uU2stohBjzbWfkSedRWeL%7C%7CmJz4ibQwbHsJbNz4Jr4eKPNavrdgQ%7C%7CCPeTkLIRfcTdaCtHcY27GA8GuKcwJvLNnDMpfhHHgqA+JdZnx7B5eAxQMjDHWWsBRFty8kYvizXnTvS6HpFpsksq9I+A&#x3D;" /></p>
-<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> 17°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;01d@2x.png" /><i>clear sky</i></b><br />Today, the sun rises at <b>오전 05:10</b> and sets at <b>오후 07:51</b>.</p>
+<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> 17°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;02d@2x.png" /><i>few clouds</i></b><br />Today, the sun rises at <b>오전 05:10</b> and sets at <b>오후 07:51</b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/ecpark-danbi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/eunchurn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://soundcloud.com/eunchurn"><img alt="SoundCloud" src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 6월 8일 수요일 오전 6:05 GMT+9<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 6월 8일 수요일 오전 6:19 GMT+9<br />
 <p align="center"><img src="https://github.com/eunchurn/eunchurn/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/></p>
