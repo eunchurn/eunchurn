@@ -35,7 +35,6 @@ jobs:
           add: "README.md"
           author_name: Eunchurn Park
           author_email: eunchurn.park@gmail.com
-          default_author: Eunchurn Park
       - uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
