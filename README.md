@@ -45,6 +45,77 @@
 </table>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C780%20hrs%2058%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-77-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 2,160 Contributions in the Year 2022
+ > 
+> 📦 6.7 MB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 100 Public Repositories 
+ > 
+> 🔑 121 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    114 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.72% 
+🌆 Daytime    213 commits    ██████░░░░░░░░░░░░░░░░░░░   23.77% 
+🌃 Evening    207 commits    █████░░░░░░░░░░░░░░░░░░░░   23.1% 
+🌙 Night      362 commits    ██████████░░░░░░░░░░░░░░░   40.4%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       113 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.61% 
+Tuesday      155 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.3% 
+Wednesday    111 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.39% 
+Thursday     109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.17% 
+Friday       112 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Saturday     178 commits    █████░░░░░░░░░░░░░░░░░░░░   19.87% 
+Sunday       118 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.17%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               35 repos            ██████████░░░░░░░░░░░░░░░   40.7% 
+JavaScript               21 repos            ██████░░░░░░░░░░░░░░░░░░░   24.42% 
+Shell                    10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
+Jupyter Notebook         3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.49% 
+C                        3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.49%
+
+```
+
+
+
+ Last Updated on 10/06/2022 06:21:17 UTC
 <!--END_SECTION:waka-->
 
 <h3>Things I code with</h3>
