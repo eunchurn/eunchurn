@@ -45,6 +45,77 @@
 </table>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C780%20hrs%2058%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-77-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 2,218 Contributions in the Year 2022
+ > 
+> 📦 6.7 MB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 100 Public Repositories 
+ > 
+> 🔑 121 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.61% 
+🌆 Daytime    213 commits    ██████░░░░░░░░░░░░░░░░░░░   23.77% 
+🌃 Evening    215 commits    ██████░░░░░░░░░░░░░░░░░░░   24.0% 
+🌙 Night      364 commits    ██████████░░░░░░░░░░░░░░░   40.62%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       113 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.61% 
+Tuesday      144 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.07% 
+Wednesday    82 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.15% 
+Thursday     91 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.16% 
+Friday       128 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Saturday     212 commits    ██████░░░░░░░░░░░░░░░░░░░   23.66% 
+Sunday       126 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.06%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               35 repos            ██████████░░░░░░░░░░░░░░░   40.7% 
+JavaScript               21 repos            ██████░░░░░░░░░░░░░░░░░░░   24.42% 
+Shell                    10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
+Jupyter Notebook         3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.49% 
+C                        3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.49%
+
+```
+
+
+
+ Last Updated on 11/06/2022 18:26:06 UTC
 <!--END_SECTION:waka-->
 
 <h3>Things I code with</h3>
