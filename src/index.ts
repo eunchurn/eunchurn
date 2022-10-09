@@ -9,10 +9,10 @@ import { Weather } from "./weatherTypes";
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
 async function setWeatherInformation() {
-  const fetch = (await dynamicImport(
+  const { default: fetch } = (await dynamicImport(
     "node-fetch",
-    module,
-  )) as typeof import("node-fetch").default;
+    module
+  )) as typeof import("node-fetch");
   const response = await fetch(
     `https://api.openweathermap.org/data/2.5/weather?q=seoul&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
   );
