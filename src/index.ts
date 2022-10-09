@@ -1,6 +1,6 @@
 import "dotenv/config";
 import Mustache from "mustache";
-import fetch from "node-fetch";
+import { dynamicImport } from "tsimportlib";
 import fs from "fs";
 import { puppeteerService } from "./services/puppeteer.service";
 import { Weather } from "./weatherTypes";
@@ -8,6 +8,10 @@ import { Weather } from "./weatherTypes";
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
 async function setWeatherInformation() {
+  const fetch = (await dynamicImport(
+    "node-fetch",
+    module,
+  ));
   const response = await fetch(
     `https://api.openweathermap.org/data/2.5/weather?q=seoul&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
   );
