@@ -67,7 +67,7 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           SHOW_LOC_CHART: "False"
           LOCALE: "en"
-          COMMIT_BY_ME: "True"
+          COMMIT_BY_ME: "False"
           SHOW_UPDATED_DATE: "True"
       # - name: Push new README.md
       #   uses: eunchurn/action-publish@v1.1.1
