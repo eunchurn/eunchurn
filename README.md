@@ -45,77 +45,6 @@
 </table>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C791%20hrs%2010%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 3,940 Contributions in the Year 2022
- > 
-> 📦 6.8 MB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 106 Public Repositories 
- > 
-> 🔑 124 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    211 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.76% 
-🌆 Daytime    481 commits    ███████░░░░░░░░░░░░░░░░░░   31.38% 
-🌃 Evening    350 commits    █████░░░░░░░░░░░░░░░░░░░░   22.83% 
-🌙 Night      491 commits    ████████░░░░░░░░░░░░░░░░░   32.03%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       334 commits    █████░░░░░░░░░░░░░░░░░░░░   21.79% 
-Tuesday      245 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.98% 
-Wednesday    189 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.33% 
-Thursday     169 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.02% 
-Friday       189 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.33% 
-Saturday     170 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.09% 
-Sunday       237 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.46%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               40 repos            ███████████░░░░░░░░░░░░░░   44.94% 
-JavaScript               18 repos            █████░░░░░░░░░░░░░░░░░░░░   20.22% 
-Shell                    9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.11% 
-HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.62% 
-Jupyter Notebook         3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.37%
-
-```
-
-
-
- Last Updated on 10/10/2022 06:46:18 UTC
 <!--END_SECTION:waka-->
 
 <details>
@@ -267,5 +196,5 @@ Jupyter Notebook         3 repos             ░░░░░░░░░░░�
 <p><a href="https://github.com/ecpark-danbi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/eunchurn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://soundcloud.com/eunchurn"><img alt="SoundCloud" src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 10월 10일 월요일 오후 3:39 GMT+9<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 10월 10일 월요일 오후 3:48 GMT+9<br />
 <p align="center"><img src="https://github.com/eunchurn/eunchurn/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/></p>
