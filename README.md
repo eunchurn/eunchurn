@@ -45,6 +45,77 @@
 </table>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C791%20hrs%2010%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 3,938 Contributions in the Year 2022
+ > 
+> 📦 6.8 MB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 106 Public Repositories 
+ > 
+> 🔑 124 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    211 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.76% 
+🌆 Daytime    481 commits    ███████░░░░░░░░░░░░░░░░░░   31.38% 
+🌃 Evening    350 commits    █████░░░░░░░░░░░░░░░░░░░░   22.83% 
+🌙 Night      491 commits    ████████░░░░░░░░░░░░░░░░░   32.03%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       332 commits    █████░░░░░░░░░░░░░░░░░░░░   21.66% 
+Tuesday      245 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.98% 
+Wednesday    191 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.46% 
+Thursday     169 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.02% 
+Friday       189 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.33% 
+Saturday     170 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.09% 
+Sunday       237 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.46%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               40 repos            ███████████░░░░░░░░░░░░░░   44.94% 
+JavaScript               18 repos            █████░░░░░░░░░░░░░░░░░░░░   20.22% 
+Shell                    9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.11% 
+HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.62% 
+Jupyter Notebook         3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.37%
+
+```
+
+
+
+ Last Updated on 10/10/2022 04:58:02 UTC
 <!--END_SECTION:waka-->
 
 <details>
