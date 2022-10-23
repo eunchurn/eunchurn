@@ -44,6 +44,8 @@ jobs:
             ${{ runner.os }}-${{ hashFiles('**/package-lock.json', '**/yarn.lock') }}-
       - name: Install dependencies
         run: ${{ steps.detect-package-manager.outputs.manager }} ${{ steps.detect-package-manager.outputs.command }}
+      - name: Install Chromium
+        run: node node_modules/puppeteer/install.js
       - name: Type Check
         run: ${{ steps.detect-package-manager.outputs.runner }} typecheck
       - name: Build
