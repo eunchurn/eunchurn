@@ -1,10 +1,12 @@
 [![README build](https://github.com/eunchurn/eunchurn/actions/workflows/main.yml/badge.svg)](https://github.com/eunchurn/eunchurn/actions/workflows/main.yml) [![Unit Test](https://github.com/eunchurn/eunchurn/actions/workflows/unit-test.yml/badge.svg)](https://github.com/eunchurn/eunchurn/actions/workflows/unit-test.yml)
 
+
 ![eunchurn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eunchurn&show_icons=true)
 
 <h1><img src="kitty_chase_heart.gif" width="60"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> I'm Eunchurn, Senior fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="13"/> <b>Seoul, Korea</b>. </p>
+
 
 <h3>Side projects</h3>
 <table>
@@ -219,7 +221,6 @@
 <h3>Where to find me</h3>
 <p><a href="https://github.com/ecpark-danbi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/eunchurn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://soundcloud.com/eunchurn"><img alt="SoundCloud" src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a></p>
 
----
-
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 12월 1일 목요일 오후 5:37 GMT+9<br />
+------------
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 12월 1일 목요일 오후 5:44 GMT+9<br />
 <p align="center"><img src="https://github.com/eunchurn/eunchurn/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/></p>
