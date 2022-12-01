@@ -67,6 +67,8 @@
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=float-square&logo=terraform&logoColor=white" />
+  <img alt="aws" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="github" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -147,13 +149,6 @@
   <img alt="netlify" src="https://img.shields.io/badge/-netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
   <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
   <img alt="semver" src="https://img.shields.io/badge/-semver-3F4551?style=flat-square&logo=semver&logoColor=white" />
-  <img alt="autoscalinggroup" src="https://img.shields.io/badge/-Auto%20Scaling%20Group-FE9400?style=flat-square&logo=amazon&logoColor=white" />
-  <img alt="codedeploy" src="https://img.shields.io/badge/-Code%20Deploy-71973C?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img alt="aws-s3" src="https://img.shields.io/badge/-AWS%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white" />
-  <img alt="aws-rds" src="https://img.shields.io/badge/-AWS%20RDS-2A6DB4?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img alt="aws-lambda" src="https://img.shields.io/badge/-AWS%20Lambda-F37A23?style=flat-square&logo=aws-lambda&logoColor=white" />
-  <img alt="aws-documentdb" src="https://img.shields.io/badge/-DocumentDB-272727?style=flat-square&logo=amazon&logoColor=white" />
-  <img alt="aws-ampliify" src="https://img.shields.io/badge/-Amplify-FF9900?style=flat-square&logo=aws-amplify&logoColor=white" />
   <img alt="ngrok" src="https://img.shields.io/badge/-ngrok-1F1E37?style=flat-square&logo=ngrok&logoColor=white" />
   <img alt="cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
   <img alt="nginx" src="https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white" />
@@ -191,10 +186,10 @@
 
 <h3>More..</h3>
 <p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
-<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> -3°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;03d@2x.png" /><i>scattered clouds</i></b><br />Today, the sun rises at <b>오전 07:27</b> and sets at <b>오후 05:14</b>.</p>
+<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> 0°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;04d@2x.png" /><i>broken clouds</i></b><br />Today, the sun rises at <b>오전 07:27</b> and sets at <b>오후 05:14</b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/ecpark-danbi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/eunchurn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://soundcloud.com/eunchurn"><img alt="SoundCloud" src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 12월 1일 목요일 오후 12:32 GMT+9<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 12월 1일 목요일 오후 2:12 GMT+9<br />
 <p align="center"><img src="https://github.com/eunchurn/eunchurn/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/></p>
