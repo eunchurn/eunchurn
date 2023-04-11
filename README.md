@@ -8,7 +8,7 @@
 <p>Welcome to my page! </br> I'm Eunchurn, Senior fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="13"/> <b>Seoul, Korea</b>. </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code_Time-1,915%20hrs%2015%20mins-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-14-red)
+![Code Time](http://img.shields.io/badge/Code_Time-1,915%20hrs%2015%20mins-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-3-red)
 
  **🤓 My Personal GitHub Info** 
 
@@ -45,7 +45,7 @@
  ```text
 Monday       199 commits    ▒░░░░░░░░░░░░░░░░░░░░░   15.95%
 
-Tuesday      203 commits    ████░░░░░░░░░░░░░░░░░░░░   16.27%
+Tuesday      204 commits    ████░░░░░░░░░░░░░░░░░░░░   16.35%
 
 Wednesday    113 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   9.05%
 
@@ -55,7 +55,7 @@ Friday       158 commits    ▒░░░░░░░░░░░░░░░░�
 
 Saturday     203 commits    ████░░░░░░░░░░░░░░░░░░░░   16.27%
 
-Sunday       243 commits    ████░░░░░░░░░░░░░░░░░░░░   19.47%
+Sunday       242 commits    ████░░░░░░░░░░░░░░░░░░░░   19.39%
 ```
 
 🏷️ ***Languages*** 
@@ -114,7 +114,7 @@ Mac                      47 hrs 52 mins      ███████████�
 ```
 
 ⌚ ***Last Stats Update on***
-Tue, 11 Apr 2023 03:15:24 GMT
+Tue, 11 Apr 2023 03:16:52 GMT
 <!--END_SECTION:waka-->
 
 <details>
