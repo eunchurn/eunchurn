@@ -8,6 +8,12 @@
 <p>Welcome to my page! </br> I'm Eunchurn, Senior fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="13"/> <b>Seoul, Korea</b>. </p>
 
 <!--START_SECTION:waka-->
+ **🤓 My Personal GitHub Info** 
+
+```properties
+
+
+```
 <!--END_SECTION:waka-->
 
 <details>
