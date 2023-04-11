@@ -8,6 +8,29 @@
 <p>Welcome to my page! </br> I'm Eunchurn, Senior fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="13"/> <b>Seoul, Korea</b>. </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code_Time-1,914%20hrs%2055%20mins-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-14-red)
+
+ **🤓 My Personal GitHub Info** 
+
+```properties
+🏆 1533 Personal contributions in the last year
+
+🛡️ 15688 Total contributions when i start a github profile
+
+💾 6.77 MB Used in Github's Storage
+
+🚫 Not Opted to hire
+
+📖 130 Public repos 
+
+🔐 128 Private repos 
+
+🔃 21 Followers 
+
+🔄 31 Following 
+
+```⌚ ***Last Stats Update on***
+Tue, 11 Apr 2023 02:54:30 GMT
 <!--END_SECTION:waka-->
 
 <details>
