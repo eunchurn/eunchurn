@@ -1,20 +1,20 @@
-import puppeteer, { Browser, Page } from "puppeteer";
+import puppeteer, { Browser, ElementHandle, Page } from "puppeteer";
 
 class PuppeteerService {
   browser: Promise<Browser>;
   page: Promise<Page>;
   constructor() {
     this.browser = puppeteer.launch({
-      args: [
-        '--no-sandbox',
-        '--disable-setuid-sandbox',
-        '--disable-infobars',
-        '--window-position=0,0',
-        '--ignore-certifcate-errors',
-        '--ignore-certifcate-errors-spki-list',
-        '--incognito',
-        '--proxy-server=http=194.67.37.90:3128',
-      ],
+      // args: [
+      //   "--no-sandbox",
+      //   "--disable-setuid-sandbox",
+      //   "--disable-infobars",
+      //   "--window-position=0,0",
+      //   "--ignore-certifcate-errors",
+      //   "--ignore-certifcate-errors-spki-list",
+      //   "--incognito",
+      //   "--proxy-server=http=194.67.37.90:3128",
+      // ],
     });
     this.page = this.browser.then((browser) => browser.newPage());
   }
@@ -26,7 +26,7 @@ class PuppeteerService {
   async goToPage(url: string) {
     const thisPage = await this.page;
     await thisPage.setExtraHTTPHeaders({
-      'Accept-Language': 'en-US',
+      "Accept-Language": "en-US",
     });
 
     await thisPage.goto(url, {
@@ -49,22 +49,35 @@ class PuppeteerService {
   async getLatestInstagramPostsFromAccount(acc: string, n: number) {
     const thisPage = await this.page;
     const page = `https://www.picuki.com/profile/${acc}`;
+    console.log({ page });
     await this.goToPage(page);
     let previousHeight;
 
     try {
-      previousHeight = await thisPage.evaluate(`document.body.scrollHeight`);
-      await thisPage.evaluate(`window.scrollTo(0, document.body.scrollHeight)`);
-      await thisPage.waitForTimeout(1000);
+      // previousHeight = await thisPage.evaluate(`document.body.scrollHeight`);
+      // await thisPage.evaluate(`window.scrollTo(0, document.body.scrollHeight)`);
+      // Wait for the page to load
+      await thisPage.waitForSelector(".post-container");
 
+      // Get the first 4 images
+      const images = await thisPage.$$eval(
+        ".post-container .post-image img",
+        (imgs) => {
+          return imgs.slice(0, 4).map((img) => img.getAttribute("src"));
+        }
+      );
+      console.log({ images });
       const nodes = await thisPage.evaluate(() => {
-        const images = document.querySelectorAll(`.post-image`);
-        return [].map.call(images, (img: HTMLImageElement) => img.src);
+        const images = Array.from(
+          document.querySelectorAll(`img.post-image`)
+        ) as HTMLImageElement[];
+        return images.map((img: HTMLImageElement) => img.src);
+        // return [].map.call(images, (img: HTMLImageElement) => img.src);
       });
-
+      console.log({ nodes });
       return nodes.slice(0, n);
     } catch (error) {
-      console.log('Error', error);
+      console.log("Error", error);
       process.exit();
     }
   }
@@ -99,5 +112,12 @@ class PuppeteerService {
   //   }
   // }
 }
+
+const wait = (ms: number): Promise<boolean> =>
+  new Promise((resolve) => {
+    setTimeout(() => {
+      resolve(true);
+    }, ms);
+  });
 
 export const puppeteerService = new PuppeteerService();

@@ -515,7 +515,6 @@ export const wakatime = async () => {
     string = `${string}⌚ ***Last Stats Update on***\n${last_update.toUTCString()}`;
   }
   const newreadme = (await generateNewReadme(readme, string)) as any;
-  console.log(newreadme);
   commitData.content = Buffer.from(newreadme).toString("base64");
   const result = await octokit.repos.createOrUpdateFileContents(commitData);
   console.log(`Readme updated ${result.status}`);

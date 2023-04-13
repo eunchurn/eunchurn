@@ -3,9 +3,12 @@ import Mustache from "mustache";
 import { dynamicImport } from "tsimportlib";
 import fs from "fs";
 // import fetch from "node-fetch";
-import { puppeteerService } from "./services/puppeteer.service";
+// import { puppeteerService } from "./services/puppeteer.service";
 import { Weather } from "./weatherTypes";
 import { wakatime } from "./services/wakatime";
+import { getImageUrl } from "./services/instagram";
+
+// console.log(process.env)
 
 const MUSTACHE_MAIN_DIR = "./main.mustache";
 
@@ -42,8 +45,11 @@ async function setWeatherInformation() {
 }
 
 async function setInstagramPosts() {
-  const instagramImages =
-    await puppeteerService.getLatestInstagramPostsFromAccount("eunchurn", 4);
+  // const instagramImages =
+  //   await puppeteerService.getLatestInstagramPostsFromAccount("eunchurn", 4);
+  // console.log({ instagramImages });
+  const instagramImages = await getImageUrl(4);
+  console.log({ instagramImages });
   return {
     img1: instagramImages[0],
     img2: instagramImages[1],
@@ -78,7 +84,7 @@ async function action() {
     ...weatherInfo,
     ...instaPics,
   };
-  console.log(DATA);
+  console.log(DATA)
   async function generateReadMe() {
     await fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
       if (err) throw err;
@@ -88,7 +94,7 @@ async function action() {
   }
   await generateReadMe();
 
-  await puppeteerService.close();
+  // await puppeteerService.close();
   await wakatime();
 }
 
