@@ -8,14 +8,14 @@
 <p>Welcome to my page! </br> I'm Eunchurn, Senior fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="13"/> <b>Seoul, Korea</b>. </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code_Time-1,918%20hrs%203%20mins-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-67-red)
+![Code Time](http://img.shields.io/badge/Code_Time-1,918%20hrs%205%20mins-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-67-red)
 
  **🤓 My Personal GitHub Info** 
 
 ```properties
-🏆 1611 Personal contributions in the last year
+🏆 1613 Personal contributions in the last year
 
-🛡️ 15766 Total contributions when i start a github profile
+🛡️ 15768 Total contributions when i start a github profile
 
 💾 6.77 MB Used in Github's Storage
 
@@ -32,13 +32,13 @@
 ```
 📆 **I am human 👨‍💻** 
 ```text
-🌞 Morning   397 commits    ████████░░░░░░░░░░░░░░░░   34.73%
+🌞 Morning   397 commits    ████████░░░░░░░░░░░░░░░░   34.76%
 
-🌆 Daytime   334 commits    ███████░░░░░░░░░░░░░░░░░   29.22%
+🌆 Daytime   332 commits    ███████░░░░░░░░░░░░░░░░░   29.07%
 
-🌉 Evening   379 commits    ████████░░░░░░░░░░░░░░░░   33.16%
+🌉 Evening   379 commits    ████████░░░░░░░░░░░░░░░░   33.19%
 
-🌕 Night     33 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.89%
+🌕 Night     34 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.98%
 ```
 
 📅 **I do my best effort on** Saturday
@@ -53,9 +53,9 @@ Thursday     120 commits    ▒░░░░░░░░░░░░░░░░�
 
 Friday       186 commits    ▒░░░░░░░░░░░░░░░░░░░░░   14.96%
 
-Saturday     263 commits    █████░░░░░░░░░░░░░░░░░░░   21.16%
+Saturday     264 commits    █████░░░░░░░░░░░░░░░░░░░   21.24%
 
-Sunday       215 commits    ████░░░░░░░░░░░░░░░░░░░░   17.3%
+Sunday       214 commits    ████░░░░░░░░░░░░░░░░░░░░   17.22%
 ```
 
 🏷️ ***Languages*** 
@@ -141,7 +141,7 @@ Vue                      1 repo              ▒░░░░░░░░░░�
 
 
 ⌚ ***Last Stats Update on***
-Sat, 15 Apr 2023 21:03:25 GMT
+Sun, 16 Apr 2023 00:32:14 GMT
 <!--END_SECTION:waka-->
 
 <details>
