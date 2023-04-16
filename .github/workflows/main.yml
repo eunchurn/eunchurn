@@ -83,6 +83,7 @@ jobs:
           add: "README.md"
           author_name: Eunchurn Park
           author_email: eunchurn.park@gmail.com
+          pull: "--rebase --autostash"
       # - uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
       # - uses: barthachijuu/waka-profile-stats@main #JS
       #   with:
