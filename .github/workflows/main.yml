@@ -77,13 +77,13 @@ jobs:
           SHOW_PROJECTS: false
           SHOW_LANGUAGE_PER_REPO: true
           SHOW_UPDATE_DATE: true
-          INPUT_COMMIT_MESSAGE: true
-      - uses: EndBug/add-and-commit@v9
-        with:
-          add: "README.md"
-          author_name: Eunchurn Park
-          author_email: eunchurn.park@gmail.com
-          pull: "--rebase --autostash"
+          INPUT_COMMIT_MESSAGE: "chore(docs): automated updating readme"
+      # - uses: EndBug/add-and-commit@v9
+      #   with:
+      #     add: "README.md"
+      #     author_name: Eunchurn Park
+      #     author_email: eunchurn.park@gmail.com
+      #     pull: "--rebase --autostash"
       # - uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
       # - uses: barthachijuu/waka-profile-stats@main #JS
       #   with:
