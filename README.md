@@ -8,14 +8,14 @@
 <p>Welcome to my page! </br> I'm Eunchurn, Senior fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="13"/> <b>Seoul, Korea</b>. </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code_Time-1,920%20hrs%2052%20mins-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-98-red)
+![Code Time](http://img.shields.io/badge/Code_Time-1,921%20hrs%2051%20mins-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-98-red)
 
  **🤓 My Personal GitHub Info** 
 
 ```properties
-🏆 1633 Personal contributions in the last year
+🏆 1636 Personal contributions in the last year
 
-🛡️ 15788 Total contributions when i start a github profile
+🛡️ 15791 Total contributions when i start a github profile
 
 💾 6.77 MB Used in Github's Storage
 
@@ -32,30 +32,30 @@
 ```
 📆 **I am human 👨‍💻** 
 ```text
-🌞 Morning   393 commits    ████████░░░░░░░░░░░░░░░░   34.41%
+🌞 Morning   391 commits    ████████░░░░░░░░░░░░░░░░   34.24%
 
-🌆 Daytime   335 commits    ███████░░░░░░░░░░░░░░░░░   29.33%
+🌆 Daytime   338 commits    ███████░░░░░░░░░░░░░░░░░   29.6%
 
-🌉 Evening   379 commits    ████████░░░░░░░░░░░░░░░░   33.19%
+🌉 Evening   378 commits    ████████░░░░░░░░░░░░░░░░   33.1%
 
 🌕 Night     35 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.06%
 ```
 
 📅 **I do my best effort on** Saturday
  ```text
-Monday       127 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   10.22%
+Monday       125 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   10.06%
 
-Tuesday      200 commits    ████░░░░░░░░░░░░░░░░░░░░   16.09%
+Tuesday      204 commits    ████░░░░░░░░░░░░░░░░░░░░   16.41%
 
 Wednesday    126 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   10.14%
 
 Thursday     120 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   9.65%
 
-Friday       186 commits    ▒░░░░░░░░░░░░░░░░░░░░░   14.96%
+Friday       185 commits    ▒░░░░░░░░░░░░░░░░░░░░░   14.88%
 
 Saturday     264 commits    █████░░░░░░░░░░░░░░░░░░░   21.24%
 
-Sunday       220 commits    ████░░░░░░░░░░░░░░░░░░░░   17.7%
+Sunday       219 commits    ████░░░░░░░░░░░░░░░░░░░░   17.62%
 ```
 
 🏷️ ***Languages*** 
@@ -141,7 +141,7 @@ Vue                      1 repo              ▒░░░░░░░░░░�
 
 
 ⌚ ***Last Stats Update on***
-Tue, 18 Apr 2023 06:08:41 GMT
+Tue, 18 Apr 2023 09:06:27 GMT
 <!--END_SECTION:waka-->
 
 <details>
