@@ -8,14 +8,14 @@
 <p>Welcome to my page! </br> I'm Eunchurn, Senior fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="13"/> <b>Seoul, Korea</b>. </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code_Time-1,922%20hrs%2010%20mins-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-98-red)
+![Code Time](http://img.shields.io/badge/Code_Time-1,922%20hrs%2015%20mins-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-98-red)
 
  **🤓 My Personal GitHub Info** 
 
 ```properties
-🏆 1642 Personal contributions in the last year
+🏆 1643 Personal contributions in the last year
 
-🛡️ 15797 Total contributions when i start a github profile
+🛡️ 15798 Total contributions when i start a github profile
 
 💾 6.77 MB Used in Github's Storage
 
@@ -32,22 +32,22 @@
 ```
 📆 **I am human 👨‍💻** 
 ```text
-🌞 Morning   386 commits    ████████░░░░░░░░░░░░░░░░   33.83%
+🌞 Morning   385 commits    ████████░░░░░░░░░░░░░░░░   33.74%
 
 🌆 Daytime   340 commits    ███████░░░░░░░░░░░░░░░░░   29.8%
 
 🌉 Evening   380 commits    ████████░░░░░░░░░░░░░░░░   33.3%
 
-🌕 Night     35 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.07%
+🌕 Night     36 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.16%
 ```
 
 📅 **I do my best effort on** Saturday
  ```text
 Monday       125 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   10.06%
 
-Tuesday      204 commits    ████░░░░░░░░░░░░░░░░░░░░   16.41%
+Tuesday      203 commits    ████░░░░░░░░░░░░░░░░░░░░   16.33%
 
-Wednesday    126 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   10.14%
+Wednesday    127 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   10.22%
 
 Thursday     120 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   9.65%
 
@@ -143,7 +143,7 @@ Vue                      1 repo              ▒░░░░░░░░░░�
 
 
 ⌚ ***Last Stats Update on***
-Wed, 19 Apr 2023 00:32:26 GMT
+Wed, 19 Apr 2023 03:07:00 GMT
 <!--END_SECTION:waka-->
 
 <details>
