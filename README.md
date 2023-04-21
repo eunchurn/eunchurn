@@ -8,14 +8,14 @@
 <p>Welcome to my page! </br> I'm Eunchurn, Senior fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="13"/> <b>Seoul, Korea</b>. </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code_Time-1,924%20hrs%2011%20mins-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-98-red)
+![Code Time](http://img.shields.io/badge/Code_Time-1,925%20hrs%2014%20mins-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-98-red)
 
  **🤓 My Personal GitHub Info** 
 
 ```properties
-🏆 1663 Personal contributions in the last year
+🏆 1666 Personal contributions in the last year
 
-🛡️ 15818 Total contributions when i start a github profile
+🛡️ 15821 Total contributions when i start a github profile
 
 💾 6.77 MB Used in Github's Storage
 
@@ -32,26 +32,26 @@
 ```
 📆 **I am human 👨‍💻** 
 ```text
-🌞 Morning   373 commits    ████████░░░░░░░░░░░░░░░░   32.78%
+🌞 Morning   372 commits    ████████░░░░░░░░░░░░░░░░   32.69%
 
 🌆 Daytime   344 commits    ███████░░░░░░░░░░░░░░░░░   30.23%
 
 🌉 Evening   384 commits    ████████░░░░░░░░░░░░░░░░   33.74%
 
-🌕 Night     37 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.25%
+🌕 Night     38 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.34%
 ```
 
 📅 **I do my best effort on** Saturday
  ```text
 Monday       125 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   10.06%
 
-Tuesday      187 commits    ▒░░░░░░░░░░░░░░░░░░░░░   15.06%
+Tuesday      186 commits    ▒░░░░░░░░░░░░░░░░░░░░░   14.98%
 
 Wednesday    134 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   10.79%
 
 Thursday     128 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   10.31%
 
-Friday       185 commits    ▒░░░░░░░░░░░░░░░░░░░░░   14.9%
+Friday       186 commits    ▒░░░░░░░░░░░░░░░░░░░░░   14.98%
 
 Saturday     264 commits    █████░░░░░░░░░░░░░░░░░░░   21.26%
 
@@ -143,7 +143,7 @@ Vue                      1 repo              ▒░░░░░░░░░░�
 
 
 ⌚ ***Last Stats Update on***
-Fri, 21 Apr 2023 00:30:14 GMT
+Fri, 21 Apr 2023 03:06:44 GMT
 <!--END_SECTION:waka-->
 
 <details>
