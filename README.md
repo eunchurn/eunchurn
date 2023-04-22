@@ -8,14 +8,14 @@
 <p>Welcome to my page! </br> I'm Eunchurn, Senior fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="13"/> <b>Seoul, Korea</b>. </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code_Time-1,927%20hrs%2012%20mins-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-98-red)
+![Code Time](http://img.shields.io/badge/Code_Time-1,927%20hrs%2012%20mins-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-109-red)
 
  **🤓 My Personal GitHub Info** 
 
 ```properties
-🏆 1678 Personal contributions in the last year
+🏆 1679 Personal contributions in the last year
 
-🛡️ 15833 Total contributions when i start a github profile
+🛡️ 15834 Total contributions when i start a github profile
 
 💾 6.77 MB Used in Github's Storage
 
@@ -32,11 +32,11 @@
 ```
 📆 **I am human 👨‍💻** 
 ```text
-🌞 Morning   372 commits    ████████░░░░░░░░░░░░░░░░   32.49%
+🌞 Morning   371 commits    ████████░░░░░░░░░░░░░░░░   32.43%
 
-🌆 Daytime   346 commits    ███████░░░░░░░░░░░░░░░░░   30.22%
+🌆 Daytime   346 commits    ███████░░░░░░░░░░░░░░░░░   30.24%
 
-🌉 Evening   389 commits    ████████░░░░░░░░░░░░░░░░   33.97%
+🌉 Evening   389 commits    ████████░░░░░░░░░░░░░░░░   34%
 
 🌕 Night     38 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.32%
 ```
@@ -45,13 +45,13 @@
  ```text
 Monday       127 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   10.17%
 
-Tuesday      178 commits    ▒░░░░░░░░░░░░░░░░░░░░░   14.25%
+Tuesday      177 commits    ▒░░░░░░░░░░░░░░░░░░░░░   14.17%
 
 Wednesday    135 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   10.81%
 
 Thursday     130 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   10.41%
 
-Friday       196 commits    ▒░░░░░░░░░░░░░░░░░░░░░   15.69%
+Friday       197 commits    ▒░░░░░░░░░░░░░░░░░░░░░   15.77%
 
 Saturday     264 commits    █████░░░░░░░░░░░░░░░░░░░   21.14%
 
@@ -143,7 +143,7 @@ Vue                      1 repo              ▒░░░░░░░░░░�
 
 
 ⌚ ***Last Stats Update on***
-Fri, 21 Apr 2023 21:03:47 GMT
+Sat, 22 Apr 2023 00:30:09 GMT
 <!--END_SECTION:waka-->
 
 <details>
