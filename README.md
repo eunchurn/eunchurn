@@ -8,14 +8,14 @@
 <p>Welcome to my page! </br> I'm Eunchurn, Senior fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="13"/> <b>Seoul, Korea</b>. </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code_Time-1,929%20hrs%2012%20mins-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-109-red)
+![Code Time](http://img.shields.io/badge/Code_Time-1,927%20hrs%2012%20mins-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-108-red)
 
  **🤓 My Personal GitHub Info** 
 
 ```properties
-🏆 1695 Personal contributions in the last year
+🏆 1696 Personal contributions in the last year
 
-🛡️ 15850 Total contributions when i start a github profile
+🛡️ 15851 Total contributions when i start a github profile
 
 💾 6.80 MB Used in Github's Storage
 
@@ -32,9 +32,9 @@
 ```
 📆 **I am human 👨‍💻** 
 ```text
-🌞 Morning   374 commits    ████████░░░░░░░░░░░░░░░░   33.36%
+🌞 Morning   373 commits    ████████░░░░░░░░░░░░░░░░   33.27%
 
-🌆 Daytime   335 commits    ███████░░░░░░░░░░░░░░░░░   29.88%
+🌆 Daytime   336 commits    ███████░░░░░░░░░░░░░░░░░   29.97%
 
 🌉 Evening   378 commits    ████████░░░░░░░░░░░░░░░░   33.72%
 
@@ -47,7 +47,7 @@ Monday       127 commits    ▒░░░░░░░░░░░░░░░░�
 
 Tuesday      171 commits    ▒░░░░░░░░░░░░░░░░░░░░░   13.98%
 
-Wednesday    118 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   9.65%
+Wednesday    117 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   9.57%
 
 Thursday     126 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   10.3%
 
@@ -55,7 +55,7 @@ Friday       185 commits    ▒░░░░░░░░░░░░░░░░�
 
 Saturday     273 commits    █████░░░░░░░░░░░░░░░░░░░   22.32%
 
-Sunday       223 commits    ████░░░░░░░░░░░░░░░░░░░░   18.23%
+Sunday       224 commits    ████░░░░░░░░░░░░░░░░░░░░   18.32%
 ```
 
 🏷️ ***Languages*** 
@@ -143,7 +143,7 @@ Vue                      1 repo              ▒░░░░░░░░░░�
 
 
 ⌚ ***Last Stats Update on***
-Sun, 23 Apr 2023 12:09:49 GMT
+Sun, 23 Apr 2023 15:03:35 GMT
 <!--END_SECTION:waka-->
 
 <details>
