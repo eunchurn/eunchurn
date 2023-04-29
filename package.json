@@ -24,7 +24,7 @@
     "mustache": "^4.2.0",
     "node-fetch": "^3.3.1",
     "puppeteer": "^19.8.5",
-    "tsimportlib": "^0.0.3"
+    "tsimportlib": "^0.0.4"
   },
   "devDependencies": {
     "@types/mustache": "4.2.2",

@@ -2316,10 +2316,10 @@ ts-xor@^1.0.6:
   resolved "https://registry.yarnpkg.com/ts-xor/-/ts-xor-1.1.0.tgz#dc579e04f1ebce219217cee18b0d2685b3b57a8d"
   integrity sha512-9vtspo9gVrmJR0XQyuNySpr6DhZztCDWS8LT5CO4gSeifILDRi4e8QZ0ixnvCyob9hMYRaOeo+OyW3ovhngjuA==
 
-tsimportlib@^0.0.3:
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/tsimportlib/-/tsimportlib-0.0.3.tgz#008453c0f0eea6f736f2a4431171de240b21fc0d"
-  integrity sha512-U9sW2/3D0P4IVRnhH2RCqjCP0sG66qvb4ahB0aQln5xGMphDjntz5rdk0rFZ6Fg+lW3L+i+gRnIl4VvNBvxiQw==
+tsimportlib@^0.0.4:
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/tsimportlib/-/tsimportlib-0.0.4.tgz#90a70a091f8a7cd39c4e54500f287c8da68f2cd6"
+  integrity sha512-oYmAdOJDoX5JGQEbbV5uH8iyotuOV9MV0hEHSruyFKiSwXZ3I4zCFshmuRMXCvZeHEeAw5Vdj26Z7E5CnAuHzA==
 
 tslib@^1.9.0:
   version "1.14.1"
