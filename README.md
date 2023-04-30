@@ -8,14 +8,14 @@
 <p>Welcome to my page! </br> I'm Eunchurn, Senior fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="13"/> <b>Seoul, Korea</b>. </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code_Time-1,939%20hrs-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-45-red)
+![Code Time](http://img.shields.io/badge/Code_Time-1,939%20hrs-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-27-red)
 
  **🤓 My Personal GitHub Info** 
 
 ```properties
-🏆 1772 Personal contributions in the last year
+🏆 1773 Personal contributions in the last year
 
-🛡️ 15927 Total contributions when i start a github profile
+🛡️ 15928 Total contributions when i start a github profile
 
 💾 6.80 MB Used in Github's Storage
 
@@ -32,18 +32,18 @@
 ```
 📆 **I am human 👨‍💻** 
 ```text
-🌞 Morning   376 commits    ████████░░░░░░░░░░░░░░░░   33.54%
+🌞 Morning   375 commits    ████████░░░░░░░░░░░░░░░░   33.48%
 
-🌆 Daytime   336 commits    ███████░░░░░░░░░░░░░░░░░   29.97%
+🌆 Daytime   336 commits    ███████░░░░░░░░░░░░░░░░░   30%
 
-🌉 Evening   375 commits    ████████░░░░░░░░░░░░░░░░   33.45%
+🌉 Evening   375 commits    ████████░░░░░░░░░░░░░░░░   33.48%
 
-🌕 Night     34 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.03%
+🌕 Night     34 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.04%
 ```
 
 📅 **I do my best effort on** Saturday
  ```text
-Monday       132 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   10.79%
+Monday       131 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   10.71%
 
 Tuesday      180 commits    ▒░░░░░░░░░░░░░░░░░░░░░   14.72%
 
@@ -53,7 +53,7 @@ Thursday     120 commits    ▒░░░░░░░░░░░░░░░░�
 
 Friday       185 commits    ▒░░░░░░░░░░░░░░░░░░░░░   15.13%
 
-Saturday     272 commits    █████░░░░░░░░░░░░░░░░░░░   22.24%
+Saturday     273 commits    █████░░░░░░░░░░░░░░░░░░░   22.32%
 
 Sunday       217 commits    ████░░░░░░░░░░░░░░░░░░░░   17.74%
 ```
@@ -141,7 +141,7 @@ Vue                      1 repo              ▒░░░░░░░░░░�
 
 
 ⌚ ***Last Stats Update on***
-Sat, 29 Apr 2023 21:03:06 GMT
+Sun, 30 Apr 2023 00:34:01 GMT
 <!--END_SECTION:waka-->
 
 <details>
