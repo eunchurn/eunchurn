@@ -1,4 +1,6 @@
 import "dotenv/config";
+import fs from "fs";
+import path from "path";
 import { Octokit } from "@octokit/rest";
 import gitUtils from "./utils";
 // const gitUtils = require("./utils");
@@ -26,7 +28,7 @@ const octokit = new Octokit({
   auth: gitHubToken,
 });
 
-const temaplteTag = "```";
+const templateTag = "```";
 let readme = "";
 let stats = "";
 const date = new Date();
@@ -60,7 +62,7 @@ function generateBarChart(perc: number) {
 }
 
 function makeStandardList(list: any[]) {
-  let string = `${temaplteTag}text`;
+  let string = `${templateTag}text`;
   for (const l of list) {
     let lname = l.name.length;
     let ltext = l.text.length;
@@ -70,11 +72,11 @@ function makeStandardList(list: any[]) {
       l.percent
     )}%\n`;
   }
-  return `${string.substr(0, string.length - 1)}\n${temaplteTag}\n`;
+  return `${string.substr(0, string.length - 1)}\n${templateTag}\n`;
 }
 
 function makeCommitList(list: any[]) {
-  let string = `${temaplteTag}text`;
+  let string = `${templateTag}text`;
   for (const l of list) {
     let lname = l.name.length;
     let ltext = l.text.length;
@@ -84,7 +86,36 @@ function makeCommitList(list: any[]) {
       l.percent
     )}%\n`;
   }
-  return `${string.substr(0, string.length - 1)}\n${temaplteTag}\n`;
+  return `${string.substr(0, string.length - 1)}\n${templateTag}\n`;
+}
+
+function currentReadme(): Promise<string> {
+  return new Promise((resolve, reject) => {
+    gitUtils
+      .gitApiGraphQl(gitHubToken!, repoQuery.userInfoQuery)
+      .then((d: any) => {
+        gitProfile.userId = d.response.viewer.id;
+        gitProfile.userEmail = d.response.viewer.email;
+        gitProfile.userName = d.response.viewer.login;
+        gitUtils
+          .gitApi(
+            `/repos/${gitProfile.userName}/${gitProfile.userName}/contents/README.md`,
+            gitHubToken!
+          )
+          .then((d: any) => {
+            commitData.sha = d.response.sha;
+            commitData.path = d.response.path;
+            commitData.repo = gitProfile.userName;
+            commitData.owner = gitProfile.userName;
+            fs.readFile("README.md", (err, data) => {
+              const readme = data.toString("utf-8");
+              resolve(readme);
+            });
+            // const readme = buff.toString("utf-8");
+            // resolve(readme);
+          });
+      });
+  });
 }
 
 function initialize() {
@@ -106,8 +137,8 @@ function initialize() {
             commitData.repo = gitProfile.userName;
             commitData.owner = gitProfile.userName;
             const buff = Buffer.from(d.response.content, "base64");
-            const rdme = buff.toString("utf-8");
-            resolve(rdme);
+            const readme = buff.toString("utf-8");
+            resolve(readme);
           });
       });
   });
@@ -228,7 +259,7 @@ function getStats() {
             user.following
           } Following \n`;
         }
-        stats = `${statistics}${traffics} **🤓 My Personal GitHub Info** \n\n${temaplteTag}properties\n${contribution.trimLeft()}\n${userInfo}\n${temaplteTag}`;
+        stats = `${statistics}${traffics} **🤓 My Personal GitHub Info** \n\n${templateTag}properties\n${contribution.trimLeft()}\n${userInfo}\n${templateTag}`;
         if (contributed) {
           repos = contributed.user.repositoriesContributedTo.nodes.filter(
             (a: any) => !a.isFork
@@ -502,7 +533,8 @@ function generateNewReadme(readme: any, stats: any) {
 export const wakatime = async () => {
   let string = ``;
   console.log(`Start on ${date.toLocaleString()}`);
-  const readme = await initialize();
+  // const readme = await initialize();
+  const readme = await currentReadme();
   const repos = await getRepos();
   const stats = (await getStats()) as any;
   const wakaStat = await generateCommitList(stats.repos, stats.userStat);
@@ -514,8 +546,8 @@ export const wakatime = async () => {
     const last_update = new Date();
     string = `${string}⌚ ***Last Stats Update on***\n${last_update.toUTCString()}`;
   }
-  const newreadme = (await generateNewReadme(readme, string)) as any;
-  commitData.content = Buffer.from(newreadme).toString("base64");
+  const newReadme = (await generateNewReadme(readme, string)) as any;
+  commitData.content = Buffer.from(newReadme).toString("base64");
   const result = await octokit.repos.createOrUpdateFileContents(commitData);
   console.log(`Readme updated ${result.status}`);
   const end_time = new Date();
