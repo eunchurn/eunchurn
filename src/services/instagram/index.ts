@@ -21,7 +21,8 @@ export const getImageUrl = async (count: number) => {
       .map((item) => item.image_versions2.candidates[0].url)
       .slice(0, 4);
   } catch (error) {
-    // console.log(error);
+    console.log(error);
+    return [0, 1, 2, 3].map((item) => `images/instagram-${item}.jpeg`);
   }
   if (imgUrls.length === 0) return [];
   const promises = imgUrls.map((url, index) => {
