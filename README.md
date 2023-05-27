@@ -13,9 +13,9 @@
  **🤓 My Personal GitHub Info** 
 
 ```properties
-🏆 2246 Personal contributions in the last year
+🏆 2247 Personal contributions in the last year
 
-🛡️ 16383 Total contributions when i start a github profile
+🛡️ 16384 Total contributions when i start a github profile
 
 💾 6.80 MB Used in Github's Storage
 
@@ -32,11 +32,11 @@
 ```
 📆 **I am human 👨‍💻** 
 ```text
-🌞 Morning   334 commits    ████████░░░░░░░░░░░░░░░░   32.18%
+🌞 Morning   335 commits    ████████░░░░░░░░░░░░░░░░   32.27%
 
 🌆 Daytime   314 commits    ███████░░░░░░░░░░░░░░░░░   30.25%
 
-🌉 Evening   355 commits    ████████░░░░░░░░░░░░░░░░   34.2%
+🌉 Evening   354 commits    ████████░░░░░░░░░░░░░░░░   34.1%
 
 🌕 Night     35 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.37%
 ```
@@ -53,9 +53,9 @@ Thursday     130 commits    ▒░░░░░░░░░░░░░░░░�
 
 Friday       186 commits    ████░░░░░░░░░░░░░░░░░░░░   16.46%
 
-Saturday     242 commits    █████░░░░░░░░░░░░░░░░░░░   21.42%
+Saturday     243 commits    █████░░░░░░░░░░░░░░░░░░░   21.5%
 
-Sunday       195 commits    ████░░░░░░░░░░░░░░░░░░░░   17.26%
+Sunday       194 commits    ████░░░░░░░░░░░░░░░░░░░░   17.17%
 ```
 
 🏷️ ***Languages*** 
@@ -159,7 +159,7 @@ Vue                      1 repo              ▒░░░░░░░░░░�
 
 
 ⌚ ***Last Stats Update on***
-Sat, 27 May 2023 06:07:31 GMT
+Sat, 27 May 2023 09:04:07 GMT
 <!--END_SECTION:waka-->
 
 <details>
@@ -337,5 +337,5 @@ Sat, 27 May 2023 06:07:31 GMT
 <p><a href="https://github.com/eunchurn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/eunchurn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://soundcloud.com/eunchurn"><img alt="SoundCloud" src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 5월 27일 토요일 오후 3:07 GMT+9<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 5월 27일 토요일 오후 6:03 GMT+9<br />
 <p align="center"><img src="https://github.com/eunchurn/eunchurn/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/></p>
