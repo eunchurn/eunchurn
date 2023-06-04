@@ -13,9 +13,9 @@
  **🤓 My Personal GitHub Info** 
 
 ```properties
-🏆 2409 Personal contributions in the last year
+🏆 2410 Personal contributions in the last year
 
-🛡️ 16546 Total contributions when i start a github profile
+🛡️ 16547 Total contributions when i start a github profile
 
 💾 6.80 MB Used in Github's Storage
 
@@ -32,18 +32,18 @@
 ```
 📆 **I am human 👨‍💻** 
 ```text
-🌞 Morning   345 commits    ████████░░░░░░░░░░░░░░░░   33.21%
+🌞 Morning   346 commits    ████████░░░░░░░░░░░░░░░░   33.3%
 
 🌆 Daytime   311 commits    ███████░░░░░░░░░░░░░░░░░   29.93%
 
-🌉 Evening   349 commits    ████████░░░░░░░░░░░░░░░░   33.59%
+🌉 Evening   348 commits    ████████░░░░░░░░░░░░░░░░   33.49%
 
 🌕 Night     34 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.27%
 ```
 
 📅 **I do my best effort on** Saturday
  ```text
-Monday       101 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   8.96%
+Monday       100 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   8.87%
 
 Tuesday      159 commits    ▒░░░░░░░░░░░░░░░░░░░░░   14.11%
 
@@ -55,7 +55,7 @@ Friday       189 commits    ████░░░░░░░░░░░░░�
 
 Saturday     247 commits    █████░░░░░░░░░░░░░░░░░░░   21.92%
 
-Sunday       193 commits    ████░░░░░░░░░░░░░░░░░░░░   17.13%
+Sunday       194 commits    ████░░░░░░░░░░░░░░░░░░░░   17.21%
 ```
 
 🏷️ ***Languages*** 
@@ -163,7 +163,7 @@ Vue                      1 repo              ▒░░░░░░░░░░�
 
 
 ⌚ ***Last Stats Update on***
-Sun, 04 Jun 2023 03:22:00 GMT
+Sun, 04 Jun 2023 06:07:03 GMT
 <!--END_SECTION:waka-->
 
 <details>
@@ -341,5 +341,5 @@ Sun, 04 Jun 2023 03:22:00 GMT
 <p><a href="https://github.com/eunchurn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/eunchurn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://soundcloud.com/eunchurn"><img alt="SoundCloud" src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 6월 4일 일요일 오후 12:21 GMT+9<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 6월 4일 일요일 오후 3:06 GMT+9<br />
 <p align="center"><img src="https://github.com/eunchurn/eunchurn/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/></p>
