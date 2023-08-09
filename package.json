@@ -23,7 +23,7 @@
     "instagram-private-api": "^1.45.3",
     "mustache": "^4.2.0",
     "node-fetch": "^3.3.1",
-    "puppeteer": "^20.0.0",
+    "puppeteer": "^21.0.0",
     "tsimportlib": "^0.0.5"
   },
   "devDependencies": {
