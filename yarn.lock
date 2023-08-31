@@ -3,11 +3,11 @@
 
 
 "@babel/code-frame@^7.0.0":
-  version "7.22.10"
-  resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.22.10.tgz#1c20e612b768fefa75f6e90d6ecb86329247f0a3"
-  integrity sha512-/KKIMG4UEL35WmI9OlvMhurwtytjvXoFcGNrOvyG9zIzA8YmPjVtIZUf7b05+TPO7G7/GEmLHDaoCgACHl9hhA==
+  version "7.22.13"
+  resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.22.13.tgz#e3c1c099402598483b7a8c46a721d1038803755e"
+  integrity sha512-XktuhWlJ5g+3TJXc5upd9Ks1HutSArik6jf2eAjYFyIOf4ej3RN+184cZbzDvbPnuTJIUhPKKJE3cIsYTiAT3w==
   dependencies:
-    "@babel/highlight" "^7.22.10"
+    "@babel/highlight" "^7.22.13"
     chalk "^2.4.2"
 
 "@babel/helper-validator-identifier@^7.22.5":
@@ -15,10 +15,10 @@
   resolved "https://registry.yarnpkg.com/@babel/helper-validator-identifier/-/helper-validator-identifier-7.22.5.tgz#9544ef6a33999343c8740fa51350f30eeaaaf193"
   integrity sha512-aJXu+6lErq8ltp+JhkJUfk1MTGyuA4v7f3pA+BJ5HLfNC6nAQ0Cpi9uOquUj8Hehg0aUiHzWQbOVJGao6ztBAQ==
 
-"@babel/highlight@^7.22.10":
-  version "7.22.10"
-  resolved "https://registry.yarnpkg.com/@babel/highlight/-/highlight-7.22.10.tgz#02a3f6d8c1cb4521b2fd0ab0da8f4739936137d7"
-  integrity sha512-78aUtVcT7MUscr0K5mIEnkwxPE0MaxkR5RxRwuHaQ+JuU5AmTPhY+do2mdzVTnIJJpyBglql2pehuBIWHug+WQ==
+"@babel/highlight@^7.22.13":
+  version "7.22.13"
+  resolved "https://registry.yarnpkg.com/@babel/highlight/-/highlight-7.22.13.tgz#9cda839e5d3be9ca9e8c26b6dd69e7548f0cbf16"
+  integrity sha512-C/BaXcnnvBCmHTpz/VGZ8jgtE2aYlW4hxDhseJAWZb7gqGM/qtCK6iZUb0TyKFf7BOUsBH7Q7fkRsDRhg1XklQ==
   dependencies:
     "@babel/helper-validator-identifier" "^7.22.5"
     chalk "^2.4.2"
@@ -228,9 +228,9 @@
     form-data "^3.0.0"
 
 "@types/node@*":
-  version "20.5.1"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.5.1.tgz#178d58ee7e4834152b0e8b4d30cbfab578b9bb30"
-  integrity sha512-4tT2UrL5LBqDwoed9wZ6N3umC4Yhz3W3FloMmiiG4JwmUJWpie0c7lcnUNd4gtMKuDEO4wRVS8B6Xa0uMRsMKg==
+  version "20.5.7"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.5.7.tgz#4b8ecac87fbefbc92f431d09c30e176fc0a7c377"
+  integrity sha512-dP7f3LdZIysZnmvP3ANJYTSwg+wLLl8p7RqniVlV7j+oXSXAbt9h0WIBFmJy5inWZoX9wZN6eXx+YXd9Rh3RBA==
 
 "@types/normalize-package-data@^2.4.0":
   version "2.4.1"
@@ -495,10 +495,10 @@ chance@^1.0.18:
   resolved "https://registry.yarnpkg.com/chance/-/chance-1.1.11.tgz#78e10e1f9220a5bbc60a83e3f28a5d8558d84d1b"
   integrity sha512-kqTg3WWywappJPqtgrdvbA380VoXO2eu9VCV895JgbyHsaErXdyHK9LOZ911OvAk6L0obK7kDk9CGs8+oBawVA==
 
-chromium-bidi@0.4.20:
-  version "0.4.20"
-  resolved "https://registry.yarnpkg.com/chromium-bidi/-/chromium-bidi-0.4.20.tgz#1cd56426638452b40b29b7054e83c379e7e2b20a"
-  integrity sha512-ruHgVZFEv00mAQMz1tQjfjdG63jiPWrQPF6HLlX2ucqLqVTJoWngeBEKHaJ6n1swV/HSvgnBNbtTRIlcVyW3Fw==
+chromium-bidi@0.4.22:
+  version "0.4.22"
+  resolved "https://registry.yarnpkg.com/chromium-bidi/-/chromium-bidi-0.4.22.tgz#625dab72946e177f538da2d2b8a681652ef916da"
+  integrity sha512-wR7Y9Ioez+cNXT4ZP7VNM1HRTljpNnMSLw4/RnwhhZUP4yCU7kIQND00YiktuHekch68jklGPK1q9Jkb29+fQg==
   dependencies:
     mitt "3.0.1"
 
@@ -1696,9 +1696,9 @@ node-domexception@^1.0.0:
   integrity sha512-/jKZoMpw0F8GRwl4/eLROPA3cfcXtLApP0QzLmUT/HuPCZWyB7IY9ZrMeKw2O/nFIqPQB3PVM9aYm0F312AXDQ==
 
 node-fetch@^2.6.12:
-  version "2.6.13"
-  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.13.tgz#a20acbbec73c2e09f9007de5cda17104122e0010"
-  integrity sha512-StxNAxh15zr77QvvkmveSQ8uCQ4+v5FkvNTj0OESmiHu+VRi/gXArXtkWMElOsOUNLtUEvI4yS+rdtOHZTwlQA==
+  version "2.7.0"
+  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.7.0.tgz#d0f0fa6e3e2dc1d27efcd8ad99d550bda94d187d"
+  integrity sha512-c4FRfUm/dbcWZ7U+1Wq0AwCyFL+3nt2bEw05wfxSz+DWpWsitgmSgYmy2dQdWyKC1694ELPqMs/YzUSNozLt8A==
   dependencies:
     whatwg-url "^5.0.0"
 
@@ -1949,26 +1949,26 @@ punycode@^2.1.0, punycode@^2.1.1:
   resolved "https://registry.yarnpkg.com/punycode/-/punycode-2.3.0.tgz#f67fa67c94da8f4d0cfff981aee4118064199b8f"
   integrity sha512-rRV+zQD8tVFys26lAGR9WUuS4iUAngJScM+ZRSKtvl5tKeZ2t5bvdNFdNHBW9FWR4guGHlgmsZ1G7BSm2wTbuA==
 
-puppeteer-core@21.1.0:
-  version "21.1.0"
-  resolved "https://registry.yarnpkg.com/puppeteer-core/-/puppeteer-core-21.1.0.tgz#f7680ed17076fba6a721f9b81fc045a8351bb8b3"
-  integrity sha512-ggfTj09jo81Y6M4DyNj80GrY6Pip+AtDUgGljqoSzP6FG5nz5Aju6Cs/X147fLgkJ4UKTb736U6cDp0ssLzN5Q==
+puppeteer-core@21.1.1:
+  version "21.1.1"
+  resolved "https://registry.yarnpkg.com/puppeteer-core/-/puppeteer-core-21.1.1.tgz#59be20b6f69acc2139ba2d9e02a33793b59254ff"
+  integrity sha512-Tlcajcf44zwfa9Sbwv3T8BtaNMJ69wtpHIxwl2NOBTyTK3D1wppQovXTjfw0TDOm3a16eCfQ+5BMi3vRQ4kuAQ==
   dependencies:
     "@puppeteer/browsers" "1.7.0"
-    chromium-bidi "0.4.20"
+    chromium-bidi "0.4.22"
     cross-fetch "4.0.0"
     debug "4.3.4"
     devtools-protocol "0.0.1159816"
     ws "8.13.0"
 
 puppeteer@^21.0.2:
-  version "21.1.0"
-  resolved "https://registry.yarnpkg.com/puppeteer/-/puppeteer-21.1.0.tgz#ccea4a1d055b9ff58bde5933b75afba2782e470a"
-  integrity sha512-x0KfxVd7Hsefq8nzH1AAdSnYw5HEKI4QPeexBmx7nO29jDoEKNE+75G8zQ0E57ZOny/vAZZptCFdD3A7PkeESQ==
+  version "21.1.1"
+  resolved "https://registry.yarnpkg.com/puppeteer/-/puppeteer-21.1.1.tgz#48f895dc89f1a8874a0cefcfb05a22f979e6f9a8"
+  integrity sha512-2TLntjGA4qLrI9/8N0UK/5OoZJ2Ue7QgphN2SD+RsaHiha12AEiVyMGsB+i6LY1IoPAtEgYIjblQ7lw3kWDNRw==
   dependencies:
     "@puppeteer/browsers" "1.7.0"
     cosmiconfig "8.2.0"
-    puppeteer-core "21.1.0"
+    puppeteer-core "21.1.1"
 
 q@^1.5.1:
   version "1.5.1"
