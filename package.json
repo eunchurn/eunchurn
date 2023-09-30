@@ -27,7 +27,7 @@
     "tsimportlib": "^0.0.5"
   },
   "devDependencies": {
-    "@types/mustache": "4.2.2",
+    "@types/mustache": "4.2.3",
     "@types/node-fetch": "2.6.5",
     "dotenv-cli": "^7.2.1",
     "standard-version": "9.5.0",
