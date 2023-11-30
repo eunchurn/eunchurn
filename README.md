@@ -8,14 +8,14 @@
 <p>Welcome to my page! </br> I'm Eunchurn, Senior fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="13"/> <b>Seoul, Korea</b>. </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code_Time-2,636%20hrs-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-2-red)
+![Code Time](http://img.shields.io/badge/Code_Time-2,638%20hrs%2041%20mins-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-2-red)
 
  **🤓 My Personal GitHub Info** 
 
 ```properties
-🏆 5072 Personal contributions in the last year
+🏆 5075 Personal contributions in the last year
 
-🛡️ 19209 Total contributions when i start a github profile
+🛡️ 19212 Total contributions when i start a github profile
 
 💾 6.88 MB Used in Github's Storage
 
@@ -32,61 +32,61 @@
 ```
 📆 **I am human 👨‍💻** 
 ```text
-🌞 Morning   377 commits    ██████████░░░░░░░░░░░░░░   42.26%
+🌞 Morning   367 commits    ███████████░░░░░░░░░░░░░   45.76%
 
-🌆 Daytime   227 commits    ██████░░░░░░░░░░░░░░░░░░   25.45%
+🌆 Daytime   224 commits    ██████░░░░░░░░░░░░░░░░░░   27.93%
 
-🌉 Evening   250 commits    ███████░░░░░░░░░░░░░░░░░   28.03%
+🌉 Evening   175 commits    █████░░░░░░░░░░░░░░░░░░░   21.82%
 
-🌕 Night     38 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░   4.26%
+🌕 Night     36 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░   4.49%
 ```
 
-📅 **I do my best effort on** Friday
+📅 **I do my best effort on** Tuesday
  ```text
-Monday       124 commits    ▒░░░░░░░░░░░░░░░░░░░░░   13.32%
+Monday       120 commits    ▒░░░░░░░░░░░░░░░░░░░░░   14.44%
 
-Tuesday      175 commits    ████░░░░░░░░░░░░░░░░░░░░   18.8%
+Tuesday      168 commits    █████░░░░░░░░░░░░░░░░░░░   20.22%
 
-Wednesday    127 commits    ▒░░░░░░░░░░░░░░░░░░░░░   13.64%
+Wednesday    127 commits    ▒░░░░░░░░░░░░░░░░░░░░░   15.28%
 
-Thursday     132 commits    ▒░░░░░░░░░░░░░░░░░░░░░   14.18%
+Thursday     117 commits    ▒░░░░░░░░░░░░░░░░░░░░░   14.08%
 
-Friday       185 commits    ████░░░░░░░░░░░░░░░░░░░░   19.87%
+Friday       148 commits    ████░░░░░░░░░░░░░░░░░░░░   17.81%
 
-Saturday     116 commits    ▒░░░░░░░░░░░░░░░░░░░░░   12.46%
+Saturday     99 commits     ▒░░░░░░░░░░░░░░░░░░░░░░   11.91%
 
-Sunday       72 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░   7.73%
+Sunday       52 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░   6.26%
 ```
 
 🏷️ ***Languages*** 
 ```text
-TypeScript               65 hrs 9 mins       ██████████████░░░░░░░░░░   58.73%
+TypeScript               61 hrs 52 mins      ██████████████░░░░░░░░░░   57.46%
 
-JSON                     11 hrs 27 mins      ▒░░░░░░░░░░░░░░░░░░░░░░   10.32%
+JSON                     11 hrs 27 mins      ▒░░░░░░░░░░░░░░░░░░░░░░   10.65%
 
-YAML                     9 hrs 39 mins       ▒░░░░░░░░░░░░░░░░░░░░░░   8.71%
+YAML                     10 hrs 2 mins       ▒░░░░░░░░░░░░░░░░░░░░░░   9.32%
 
-Other                    6 hrs 57 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░   6.27%
+Other                    7 hrs 18 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░   6.78%
 
-Terraform                4 hrs 51 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░   4.38%
+Terraform                4 hrs 2 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.75%
 
-Markdown                 2 hrs 39 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.39%
+Markdown                 2 hrs 47 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.59%
 
-JavaScript               2 hrs 20 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.11%
+JavaScript               2 hrs 7 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.97%
 
-Python                   1 hr 53 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.7%
+Python                   1 hr 53 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.75%
 
-HTML                     1 hr 12 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.09%
+HTML                     1 hr 12 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.13%
 
-CSS                      1 hr 6 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.99%
+CSS                      1 hr 6 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.02%
 
-Docker                   56 mins             ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.85%
+Docker                   58 mins             ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.9%
 
-Bash                     43 mins             ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.66%
+Bash                     50 mins             ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.79%
 
-TSConfig                 43 mins             ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.66%
+TSConfig                 43 mins             ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.68%
 
-Text                     22 mins             ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
+Text                     22 mins             ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.34%
 
 SQL                      20 mins             ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
 
@@ -94,11 +94,11 @@ Git Config               10 mins             ▒░░░░░░░░░░�
 
 GraphQL                  9 mins              ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
 
+HCL                      7 mins              ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
+
 EJS                      4 mins              ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
 
 Diff                     3 mins              ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
-
-HCL                      3 mins              ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 TOML                     0 secs              ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
@@ -109,12 +109,12 @@ CSV                      0 secs              ░░░░░░░░░░░�
 
 🧰 ***Editors*** 
 ```text
-VS Code                  110 hrs 56 mins     █████████████████████████   100%
+VS Code                  107 hrs 40 mins     █████████████████████████   100%
 ```
 
 📀 ***Operating System*** 
 ```text
-Mac                      110 hrs 56 mins     █████████████████████████   100%
+Mac                      107 hrs 40 mins     █████████████████████████   100%
 ```
 
 ***I Mostly Code in*** TypeScript 
@@ -151,7 +151,7 @@ Vue                      1 repo              ▒░░░░░░░░░░�
 
 
 ⌚ ***Last Stats Update on***
-Thu, 30 Nov 2023 15:05:33 GMT
+Thu, 30 Nov 2023 18:08:27 GMT
 <!--END_SECTION:waka-->
 
 <details>
@@ -324,10 +324,10 @@ Thu, 30 Nov 2023 15:05:33 GMT
 
 <h3>More..</h3>
 <p><img width="200" src="images/instagram-0.jpeg" /> <img width="200" src="images/instagram-1.jpeg" /> <img width="200" src="images/instagram-2.jpeg" /> <img width="200" src="images/instagram-3.jpeg" /></p>
-<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> -5°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;01n@2x.png" /><i>clear sky</i></b><br />Today, the sun rises at <b>오전 07:26</b> and sets at <b>오후 05:14</b>.</p>
+<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> -6°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;01n@2x.png" /><i>clear sky</i></b><br />Today, the sun rises at <b>오전 07:27</b> and sets at <b>오후 05:14</b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/eunchurn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/eunchurn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://soundcloud.com/eunchurn"><img alt="SoundCloud" src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 12월 1일 금요일 오전 12:05 GMT+9<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 12월 1일 금요일 오전 3:08 GMT+9<br />
 <p align="center"><img src="https://github.com/eunchurn/eunchurn/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/></p>
