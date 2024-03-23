@@ -13,9 +13,9 @@
  **🤓 My Personal GitHub Info** 
 
 ```properties
-🏆 1046 Personal contributions in the last year
+🏆 1047 Personal contributions in the last year
 
-🛡️ 20689 Total contributions when i start a github profile
+🛡️ 20690 Total contributions when i start a github profile
 
 💾 7.01 MB Used in Github's Storage
 
@@ -53,9 +53,9 @@ Thursday     163 commits    ████░░░░░░░░░░░░░�
 
 Friday       214 commits    █████░░░░░░░░░░░░░░░░░░░   21.38%
 
-Saturday     98 commits     ▒░░░░░░░░░░░░░░░░░░░░░░   9.79%
+Saturday     99 commits     ▒░░░░░░░░░░░░░░░░░░░░░░   9.89%
 
-Sunday       73 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░   7.29%
+Sunday       72 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░   7.19%
 ```
 
 🏷️ ***Languages*** 
@@ -139,7 +139,7 @@ Vue                      1 repo              ▒░░░░░░░░░░�
 
 
 ⌚ ***Last Stats Update on***
-Sat, 23 Mar 2024 06:11:45 GMT
+Sat, 23 Mar 2024 09:06:52 GMT
 <!--END_SECTION:waka-->
 
 <details>
@@ -317,5 +317,5 @@ Sat, 23 Mar 2024 06:11:45 GMT
 <p><a href="https://github.com/eunchurn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/eunchurn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://soundcloud.com/eunchurn"><img alt="SoundCloud" src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 3월 23일 토요일 오후 3:11 GMT+9<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 3월 23일 토요일 오후 6:06 GMT+9<br />
 <p align="center"><img src="https://github.com/eunchurn/eunchurn/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/></p>
