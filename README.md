@@ -13,9 +13,9 @@
  **🤓 My Personal GitHub Info** 
 
 ```properties
-🏆 1054 Personal contributions in the last year
+🏆 1055 Personal contributions in the last year
 
-🛡️ 20697 Total contributions when i start a github profile
+🛡️ 20698 Total contributions when i start a github profile
 
 💾 7.01 MB Used in Github's Storage
 
@@ -43,7 +43,7 @@ Not Opted to hire
 
 📅 **I do my best effort on** Friday
  ```text
-Monday       126 commits    ▒░░░░░░░░░░░░░░░░░░░░░   12.59%
+Monday       125 commits    ▒░░░░░░░░░░░░░░░░░░░░░   12.49%
 
 Tuesday      170 commits    ████░░░░░░░░░░░░░░░░░░░░   16.98%
 
@@ -55,7 +55,7 @@ Friday       214 commits    █████░░░░░░░░░░░░�
 
 Saturday     104 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   10.39%
 
-Sunday       68 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░   6.79%
+Sunday       69 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░   6.89%
 ```
 
 🏷️ ***Languages*** 
@@ -139,7 +139,7 @@ Vue                      1 repo              ▒░░░░░░░░░░�
 
 
 ⌚ ***Last Stats Update on***
-Sun, 24 Mar 2024 06:08:05 GMT
+Sun, 24 Mar 2024 09:05:30 GMT
 <!--END_SECTION:waka-->
 
 <details>
@@ -317,5 +317,5 @@ Sun, 24 Mar 2024 06:08:05 GMT
 <p><a href="https://github.com/eunchurn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/eunchurn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://soundcloud.com/eunchurn"><img alt="SoundCloud" src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 3월 24일 일요일 오후 3:07 GMT+9<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 3월 24일 일요일 오후 6:05 GMT+9<br />
 <p align="center"><img src="https://github.com/eunchurn/eunchurn/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/></p>
