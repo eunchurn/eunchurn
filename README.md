@@ -13,9 +13,9 @@
  **🤓 My Personal GitHub Info** 
 
 ```properties
-🏆 1060 Personal contributions in the last year
+🏆 1061 Personal contributions in the last year
 
-🛡️ 20703 Total contributions when i start a github profile
+🛡️ 20704 Total contributions when i start a github profile
 
 💾 7.01 MB Used in Github's Storage
 
@@ -43,9 +43,9 @@ Not Opted to hire
 
 📅 **I do my best effort on** Friday
  ```text
-Monday       120 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   11.99%
+Monday       121 commits    ▒░░░░░░░░░░░░░░░░░░░░░   12.09%
 
-Tuesday      170 commits    ████░░░░░░░░░░░░░░░░░░░░   16.98%
+Tuesday      169 commits    ████░░░░░░░░░░░░░░░░░░░░   16.88%
 
 Wednesday    156 commits    ▒░░░░░░░░░░░░░░░░░░░░░   15.58%
 
@@ -139,7 +139,7 @@ Vue                      1 repo              ▒░░░░░░░░░░�
 
 
 ⌚ ***Last Stats Update on***
-Mon, 25 Mar 2024 00:31:05 GMT
+Mon, 25 Mar 2024 03:08:28 GMT
 <!--END_SECTION:waka-->
 
 <details>
@@ -317,5 +317,5 @@ Mon, 25 Mar 2024 00:31:05 GMT
 <p><a href="https://github.com/eunchurn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/eunchurn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://soundcloud.com/eunchurn"><img alt="SoundCloud" src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 3월 25일 월요일 오전 9:30 GMT+9<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 3월 25일 월요일 오후 12:08 GMT+9<br />
 <p align="center"><img src="https://github.com/eunchurn/eunchurn/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/></p>
