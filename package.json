@@ -17,19 +17,19 @@
   "author": "Eunchurn Park <eunchurn.park@gmail.com> (https://github.com/eunchurn)",
   "license": "MIT",
   "dependencies": {
-    "@octokit/rest": "^20.0.1",
-    "axios": "^1.4.0",
-    "dotenv": "^16.3.1",
-    "instagram-private-api": "^1.45.3",
+    "@octokit/rest": "^20.1.1",
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5",
+    "instagram-private-api": "^1.46.1",
     "mustache": "^4.2.0",
     "node-fetch": "^3.3.2",
-    "puppeteer": "^21.0.2",
+    "puppeteer": "^22.9.0",
     "tsimportlib": "^0.0.5"
   },
   "devDependencies": {
     "@types/mustache": "4.2.5",
     "@types/node-fetch": "2.6.11",
-    "dotenv-cli": "^7.2.1",
+    "dotenv-cli": "^7.4.2",
     "standard-version": "9.5.0",
     "ts-node": "10.9.2",
     "typescript": "5.4.5"
