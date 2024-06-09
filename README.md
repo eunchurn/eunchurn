@@ -8,14 +8,14 @@
 <p>Welcome to my page! </br> I'm Eunchurn, Senior fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="13"/> <b>Seoul, Korea</b>. </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code_Time-3,142%20hrs%2058%20mins-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-15-red)
+![Code Time](http://img.shields.io/badge/Code_Time-3,140%20hrs%2042%20mins-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-15-red)
 
  **🤓 My Personal GitHub Info** 
 
 ```properties
-🏆 1607 Personal contributions in the last year
+🏆 1618 Personal contributions in the last year
 
-🛡️ 21257 Total contributions when i start a github profile
+🛡️ 21268 Total contributions when i start a github profile
 
 💾 8.33 MB Used in Github's Storage
 
@@ -23,7 +23,7 @@ Not Opted to hire
 
 📖 143 Public repos 
 
-🔐 148 Private repos 
+🔐 153 Private repos 
 
 🔃 23 Followers 
 
@@ -32,30 +32,30 @@ Not Opted to hire
 ```
 📆 **I am human 👨‍💻** 
 ```text
-🌞 Morning   419 commits    █████████░░░░░░░░░░░░░░░   38.16%
+🌞 Morning   377 commits    ██████████░░░░░░░░░░░░░░   41.7%
 
-🌆 Daytime   286 commits    ██████░░░░░░░░░░░░░░░░░░   26.05%
+🌆 Daytime   247 commits    ██████░░░░░░░░░░░░░░░░░░   27.32%
 
-🌉 Evening   338 commits    ███████░░░░░░░░░░░░░░░░░   30.78%
+🌉 Evening   241 commits    ██████░░░░░░░░░░░░░░░░░░   26.66%
 
-🌕 Night     55 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░   5.01%
+🌕 Night     39 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░   4.31%
 ```
 
 📅 **I do my best effort on** Friday
  ```text
-Monday       174 commits    ▒░░░░░░░░░░░░░░░░░░░░░   14.76%
+Monday       154 commits    ████░░░░░░░░░░░░░░░░░░░░   16.14%
 
-Tuesday      196 commits    ████░░░░░░░░░░░░░░░░░░░░   16.62%
+Tuesday      168 commits    ████░░░░░░░░░░░░░░░░░░░░   17.61%
 
-Wednesday    201 commits    ████░░░░░░░░░░░░░░░░░░░░   17.05%
+Wednesday    178 commits    ████░░░░░░░░░░░░░░░░░░░░   18.66%
 
-Thursday     170 commits    ▒░░░░░░░░░░░░░░░░░░░░░   14.42%
+Thursday     134 commits    ▒░░░░░░░░░░░░░░░░░░░░░   14.05%
 
-Friday       246 commits    █████░░░░░░░░░░░░░░░░░░░   20.87%
+Friday       183 commits    ████░░░░░░░░░░░░░░░░░░░░   19.18%
 
-Saturday     124 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   10.52%
+Saturday     89 commits     ▒░░░░░░░░░░░░░░░░░░░░░░   9.33%
 
-Sunday       68 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░   5.77%
+Sunday       48 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░   5.03%
 ```
 
 🏷️ ***Languages*** 
@@ -121,13 +121,15 @@ Mac                      99 hrs 31 mins      ███████████�
 
 ***I Mostly Code in*** TypeScript 
 ```text
-TypeScript               50 repos            ██████████████░░░░░░░░░░   59.52%
+TypeScript               48 repos            ██████████████░░░░░░░░░░   57.14%
 
 JavaScript               7 repos             ▒░░░░░░░░░░░░░░░░░░░░░░   8.33%
 
 HCL                      6 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   7.14%
 
-Shell                    5 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   5.95%
+C                        5 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   5.95%
+
+Shell                    4 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   4.76%
 
 TeX                      3 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.57%
 
@@ -136,10 +138,6 @@ Vue                      3 repos             ▒░░░░░░░░░░�
 Jupyter Notebook         2 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.38%
 
 HTML                     2 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.38%
-
-Dockerfile               1 repo              ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.19%
-
-Python                   1 repo              ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.19%
 
 PHP                      1 repo              ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.19%
 
@@ -153,7 +151,7 @@ EJS                      1 repo              ▒░░░░░░░░░░�
 
 
 ⌚ ***Last Stats Update on***
-Sun, 09 Jun 2024 12:12:06 GMT
+Sun, 09 Jun 2024 15:05:33 GMT
 <!--END_SECTION:waka-->
 
 <details>
@@ -326,10 +324,10 @@ Sun, 09 Jun 2024 12:12:06 GMT
 
 <h3>More..</h3>
 <p><img width="200" src="images/instagram-0.jpeg" /> <img width="200" src="images/instagram-1.jpeg" /> <img width="200" src="images/instagram-2.jpeg" /> <img width="200" src="images/instagram-3.jpeg" /></p>
-<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> 23°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;04n@2x.png" /><i>broken clouds</i></b><br />Today, the sun rises at <b>오전 05:10</b> and sets at <b>오후 07:52</b>.</p>
+<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> 19°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;01n@2x.png" /><i>clear sky</i></b><br />Today, the sun rises at <b>오전 05:10</b> and sets at <b>오후 07:52</b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/eunchurn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/eunchurn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://soundcloud.com/eunchurn"><img alt="SoundCloud" src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 6월 9일 일요일 오후 9:11 GMT+9<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 6월 10일 월요일 오전 12:05 GMT+9<br />
 <p align="center"><img src="https://github.com/eunchurn/eunchurn/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/></p>
