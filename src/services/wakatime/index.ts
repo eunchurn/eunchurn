@@ -1,6 +1,5 @@
 import "dotenv/config";
-import fs from "fs";
-import path from "path";
+import fs from "node:fs";
 import { Octokit } from "@octokit/rest";
 import gitUtils from "./utils";
 // const gitUtils = require("./utils");

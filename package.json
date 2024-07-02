@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "build:readme": "ts-node src/index.ts",
+    "build:readme": "tsx src/index.ts",
     "release": "standard-version",
     "typecheck": "tsc --noEmit"
   },
@@ -32,6 +32,7 @@
     "dotenv-cli": "^7.4.2",
     "standard-version": "9.5.0",
     "ts-node": "10.9.2",
+    "tsx": "^4.16.0",
     "typescript": "5.5.3"
   }
 }
