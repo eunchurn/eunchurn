@@ -13,9 +13,9 @@
  **🤓 My Personal GitHub Info** 
 
 ```properties
-🏆 2459 Personal contributions in the last year
+🏆 2460 Personal contributions in the last year
 
-🛡️ 22109 Total contributions when i start a github profile
+🛡️ 22110 Total contributions when i start a github profile
 
 💾 8.63 MB Used in Github's Storage
 
@@ -32,9 +32,9 @@ Not Opted to hire
 ```
 📆 **I am human 👨‍💻** 
 ```text
-🌞 Morning   541 commits    ██████████░░░░░░░░░░░░░░   42.8%
+🌞 Morning   542 commits    ██████████░░░░░░░░░░░░░░   42.88%
 
-🌆 Daytime   330 commits    ██████░░░░░░░░░░░░░░░░░░   26.11%
+🌆 Daytime   329 commits    ██████░░░░░░░░░░░░░░░░░░   26.03%
 
 🌉 Evening   338 commits    ██████░░░░░░░░░░░░░░░░░░   26.74%
 
@@ -51,9 +51,9 @@ Wednesday    177 commits    ▒░░░░░░░░░░░░░░░░�
 
 Thursday     169 commits    ▒░░░░░░░░░░░░░░░░░░░░░   12.57%
 
-Friday       299 commits    █████░░░░░░░░░░░░░░░░░░░   22.23%
+Friday       298 commits    █████░░░░░░░░░░░░░░░░░░░   22.16%
 
-Saturday     121 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   9%
+Saturday     122 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   9.07%
 
 Sunday       73 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░   5.43%
 ```
@@ -163,7 +163,7 @@ EJS                      1 repo              ▒░░░░░░░░░░�
 
 
 ⌚ ***Last Stats Update on***
-Sat, 27 Jul 2024 06:09:04 GMT
+Sat, 27 Jul 2024 09:06:49 GMT
 <!--END_SECTION:waka-->
 
 <details>
@@ -336,10 +336,10 @@ Sat, 27 Jul 2024 06:09:04 GMT
 
 <h3>More..</h3>
 <p><img width="200" src="images/instagram-0.jpeg" /> <img width="200" src="images/instagram-1.jpeg" /> <img width="200" src="images/instagram-2.jpeg" /> <img width="200" src="images/instagram-3.jpeg" /></p>
-<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> 31°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;10d@2x.png" /><i>light rain</i></b><br />Today, the sun rises at <b>오전 05:31</b> and sets at <b>오후 07:45</b>.</p>
+<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> 30°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;04d@2x.png" /><i>broken clouds</i></b><br />Today, the sun rises at <b>오전 05:31</b> and sets at <b>오후 07:45</b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/eunchurn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/eunchurn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://soundcloud.com/eunchurn"><img alt="SoundCloud" src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 7월 27일 토요일 오후 3:08 GMT+9<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 7월 27일 토요일 오후 6:06 GMT+9<br />
 <p align="center"><img src="https://github.com/eunchurn/eunchurn/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/></p>
