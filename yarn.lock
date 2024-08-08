@@ -341,11 +341,11 @@
     form-data "^4.0.0"
 
 "@types/node@*":
-  version "22.0.0"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.0.0.tgz#04862a2a71e62264426083abe1e27e87cac05a30"
-  integrity sha512-VT7KSYudcPOzP5Q0wfbowyNLaVR8QWUdw+088uFWwfvpY6uCWaXpqV6ieLAu9WBcnTa7H4Z5RLK8I5t2FuOcqw==
+  version "22.1.0"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.1.0.tgz#6d6adc648b5e03f0e83c78dc788c2b037d0ad94b"
+  integrity sha512-AOmuRF0R2/5j1knA3c6G3HOk523Ga+l+ZXltX8SF1+5oqcXijjfTd8fY3XRZqSihEu9XhtQnKYLmkFaoxgsJHw==
   dependencies:
-    undici-types "~6.11.1"
+    undici-types "~6.13.0"
 
 "@types/normalize-package-data@^2.4.0":
   version "2.4.1"
@@ -2111,10 +2111,10 @@ punycode@^2.1.0, punycode@^2.1.1:
   resolved "https://registry.yarnpkg.com/punycode/-/punycode-2.3.1.tgz#027422e2faec0b25e1549c3e1bd8309b9133b6e5"
   integrity sha512-vYt7UD1U9Wg6138shLtLOvdAu+8DsC/ilFtEVHcH+wydcSpNE20AfSOduf6MkRFahL5FY7X1oU7nKVZFtfq8Fg==
 
-puppeteer-core@23.0.1:
-  version "23.0.1"
-  resolved "https://registry.yarnpkg.com/puppeteer-core/-/puppeteer-core-23.0.1.tgz#5b447163dacd439fafc4a5b7bd2d453122be21c8"
-  integrity sha512-gZYLcZUkWHZW1vvKEdOZuAB++3qY96Uh4b7B22PI0802omN4Ghrjt9H1r64NVt+AmnaZ/6Q+OW60S/Q7y+BZgQ==
+puppeteer-core@23.0.2:
+  version "23.0.2"
+  resolved "https://registry.yarnpkg.com/puppeteer-core/-/puppeteer-core-23.0.2.tgz#343c8d003e609620febfe35f76847a0014cdc97c"
+  integrity sha512-MvOHn+g1TYkAR2oVd/bf/YWXKqFTJmkhyyurYgxkrjh8rBOL1ZH5VyOsLJi0bLO7/yoipAmk1gFZEx9HUJnaoA==
   dependencies:
     "@puppeteer/browsers" "2.3.0"
     chromium-bidi "0.6.4"
@@ -2123,15 +2123,15 @@ puppeteer-core@23.0.1:
     ws "^8.18.0"
 
 puppeteer@^23.0.0:
-  version "23.0.1"
-  resolved "https://registry.yarnpkg.com/puppeteer/-/puppeteer-23.0.1.tgz#ffe576746e862337c03b12b94502a42c368397fa"
-  integrity sha512-i5P0MJcpLZ+lK66/B6TX9G347+Yh4D6b5KGyzaz8b7wYrNenN55GwRa1svKoZMUGjFHcmtQuniE7qZ8/k/YbQw==
+  version "23.0.2"
+  resolved "https://registry.yarnpkg.com/puppeteer/-/puppeteer-23.0.2.tgz#73391e87407da4ae6d630e156f42623a5a7619cd"
+  integrity sha512-I/l1P8s8brcLG+oW9AwF8hUaOSGGJcGKMflXRgULUH0S3ABptlLI9ZKjqWDo8ipY6v789ZKd+bNKtcCwpTh5Ww==
   dependencies:
     "@puppeteer/browsers" "2.3.0"
     chromium-bidi "0.6.4"
     cosmiconfig "^9.0.0"
     devtools-protocol "0.0.1312386"
-    puppeteer-core "23.0.1"
+    puppeteer-core "23.0.2"
 
 q@^1.5.1:
   version "1.5.1"
@@ -2724,10 +2724,10 @@ unbzip2-stream@^1.4.3:
     buffer "^5.2.1"
     through "^2.3.8"
 
-undici-types@~6.11.1:
-  version "6.11.1"
-  resolved "https://registry.yarnpkg.com/undici-types/-/undici-types-6.11.1.tgz#432ea6e8efd54a48569705a699e62d8f4981b197"
-  integrity sha512-mIDEX2ek50x0OlRgxryxsenE5XaQD4on5U2inY7RApK3SOJpofyw7uW2AyfMKkhAxXIceo2DeWGVGwyvng1GNQ==
+undici-types@~6.13.0:
+  version "6.13.0"
+  resolved "https://registry.yarnpkg.com/undici-types/-/undici-types-6.13.0.tgz#e3e79220ab8c81ed1496b5812471afd7cf075ea5"
+  integrity sha512-xtFJHudx8S2DSoujjMd1WeWvn7KKWFRESZTMeL1RptAYERu29D6jphMjjY+vn96jvN3kVPDNxU/E13VTaXj6jg==
 
 universal-user-agent@^7.0.0, universal-user-agent@^7.0.2:
   version "7.0.2"
