@@ -8,14 +8,14 @@
 <p>Welcome to my page! </br> I'm Eunchurn, Senior fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="13"/> <b>Seoul, Korea</b>. </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code_Time-3,351%20hrs%2019%20mins-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-0-red)
+![Code Time](http://img.shields.io/badge/Code_Time-3,359%20hrs%2030%20mins-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-0-red)
 
  **🤓 My Personal GitHub Info** 
 
 ```properties
-🏆 2569 Personal contributions in the last year
+🏆 2570 Personal contributions in the last year
 
-🛡️ 22219 Total contributions when i start a github profile
+🛡️ 22220 Total contributions when i start a github profile
 
 💾 8.63 MB Used in Github's Storage
 
@@ -32,11 +32,11 @@ Not Opted to hire
 ```
 📆 **I am human 👨‍💻** 
 ```text
-🌞 Morning   529 commits    ██████████░░░░░░░░░░░░░░   43.11%
+🌞 Morning   528 commits    ██████████░░░░░░░░░░░░░░   43.03%
 
 🌆 Daytime   322 commits    ██████░░░░░░░░░░░░░░░░░░   26.24%
 
-🌉 Evening   326 commits    ██████░░░░░░░░░░░░░░░░░░   26.57%
+🌉 Evening   327 commits    ██████░░░░░░░░░░░░░░░░░░   26.65%
 
 🌕 Night     50 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░   4.07%
 ```
@@ -60,59 +60,57 @@ Sunday       73 commits     ▒░░░░░░░░░░░░░░░░�
 
 🏷️ ***Languages*** 
 ```text
-TypeScript               71 hrs 43 mins      ███████████████░░░░░░░░░   61.1%
+TypeScript               71 hrs 7 mins       ██████████████░░░░░░░░░░   59.09%
 
-JSON                     10 hrs 53 mins      ▒░░░░░░░░░░░░░░░░░░░░░░   9.27%
+JSON                     10 hrs 57 mins      ▒░░░░░░░░░░░░░░░░░░░░░░   9.1%
 
-Markdown                 6 hrs 44 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░   5.75%
+JavaScript               6 hrs 43 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░   5.59%
 
-JavaScript               6 hrs 34 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░   5.6%
+Markdown                 6 hrs 42 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░   5.58%
 
-YAML                     3 hrs 56 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.36%
+YAML                     4 hrs 4 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.38%
 
-Prisma                   2 hrs 38 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.25%
+Go                       3 hrs 29 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.9%
 
-Other                    2 hrs 19 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.98%
+Other                    2 hrs 44 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.27%
 
-GraphQL                  1 hr 48 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.54%
+Prisma                   2 hrs 38 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.2%
 
-Go                       1 hr 39 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.41%
+GraphQL                  1 hr 48 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.5%
 
-Bash                     1 hr 37 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.38%
+Bash                     1 hr 37 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.35%
 
-TSConfig                 1 hr 31 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.3%
+TSConfig                 1 hr 33 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.29%
 
-Makefile                 1 hr 15 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.07%
+Makefile                 1 hr 18 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.09%
 
-Ruby                     1 hr 6 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.94%
+Ruby                     1 hr 6 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.91%
 
-AsciiDoc                 32 mins             ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.46%
+SCSS                     56 mins             ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.79%
 
-SCSS                     29 mins             ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.42%
+AsciiDoc                 32 mins             ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
+
+Git Config               29 mins             ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.42%
 
 Image (svg)              23 mins             ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
 
 Terraform                22 mins             ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
 
-HTML                     16 mins             ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
+HTML                     16 mins             ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
 
 C++                      15 mins             ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
 
-Docker                   13 mins             ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
+Docker                   15 mins             ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
 
-Text                     11 mins             ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
+CSS                      15 mins             ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
 
-EJS                      9 mins              ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
+EJS                      13 mins             ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
 
-Git Config               9 mins              ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
-
-Python                   7 mins              ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
+Text                     11 mins             ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
 
 Vue.js                   7 mins              ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
 
-CSS                      7 mins              ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
-
-TeX                      4 mins              ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+TeX                      4 mins              ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
 
 XML                      3 mins              ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
@@ -120,19 +118,23 @@ Protocol Buffer          0 secs              ▒░░░░░░░░░░�
 
 INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
+Modula-2                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+
 TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 ```
 
 🧰 ***Editors*** 
 ```text
-VS Code                  117 hrs 22 mins     █████████████████████████   100%
+VS Code                  120 hrs 23 mins     █████████████████████████   100%
 ```
 
 📀 ***Operating System*** 
 ```text
-Mac                      117 hrs 22 mins     █████████████████████████   100%
+Mac                      120 hrs 23 mins     █████████████████████████   100%
 ```
 
 ***I Mostly Code in*** TypeScript 
@@ -167,7 +169,7 @@ EJS                      1 repo              ▒░░░░░░░░░░�
 
 
 ⌚ ***Last Stats Update on***
-Fri, 09 Aug 2024 15:08:23 GMT
+Fri, 09 Aug 2024 18:09:50 GMT
 <!--END_SECTION:waka-->
 
 <details>
@@ -340,10 +342,10 @@ Fri, 09 Aug 2024 15:08:23 GMT
 
 <h3>More..</h3>
 <p><img width="200" src="images/instagram-0.jpeg" /> <img width="200" src="images/instagram-1.jpeg" /> <img width="200" src="images/instagram-2.jpeg" /> <img width="200" src="images/instagram-3.jpeg" /></p>
-<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> 26°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;01n@2x.png" /><i>clear sky</i></b><br />Today, the sun rises at <b>오전 05:43</b> and sets at <b>오후 07:31</b>.</p>
+<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> 26°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;04n@2x.png" /><i>overcast clouds</i></b><br />Today, the sun rises at <b>오전 05:43</b> and sets at <b>오후 07:31</b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/eunchurn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/eunchurn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://soundcloud.com/eunchurn"><img alt="SoundCloud" src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 8월 10일 토요일 오전 12:08 GMT+9<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 8월 10일 토요일 오전 3:09 GMT+9<br />
 <p align="center"><img src="https://github.com/eunchurn/eunchurn/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/></p>
