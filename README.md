@@ -8,14 +8,14 @@
 <p>Welcome to my page! </br> I'm Eunchurn, Senior fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="13"/> <b>Seoul, Korea</b>. </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code_Time-3,505%20hrs%2027%20mins-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-28-red)
+![Code Time](http://img.shields.io/badge/Code_Time-3,507%20hrs%208%20mins-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-28-red)
 
  **🤓 My Personal GitHub Info** 
 
 ```properties
-🏆 3125 Personal contributions in the last year
+🏆 3130 Personal contributions in the last year
 
-🛡️ 14539 Total contributions when i start a github profile
+🛡️ 22780 Total contributions when i start a github profile
 
 💾 8.68 MB Used in Github's Storage
 
@@ -47,9 +47,9 @@ Monday       257 commits    ████░░░░░░░░░░░░░�
 
 Tuesday      301 commits    █████░░░░░░░░░░░░░░░░░░░   20.66%
 
-Wednesday    183 commits    ▒░░░░░░░░░░░░░░░░░░░░░   12.56%
+Wednesday    184 commits    ▒░░░░░░░░░░░░░░░░░░░░░   12.63%
 
-Thursday     178 commits    ▒░░░░░░░░░░░░░░░░░░░░░   12.22%
+Thursday     177 commits    ▒░░░░░░░░░░░░░░░░░░░░░   12.15%
 
 Friday       297 commits    █████░░░░░░░░░░░░░░░░░░░   20.38%
 
@@ -163,7 +163,7 @@ EJS                      1 repo              ▒░░░░░░░░░░�
 
 
 ⌚ ***Last Stats Update on***
-Wed, 02 Oct 2024 06:11:49 GMT
+Wed, 02 Oct 2024 09:08:58 GMT
 <!--END_SECTION:waka-->
 
 <details>
@@ -341,5 +341,5 @@ Wed, 02 Oct 2024 06:11:49 GMT
 <p><a href="https://github.com/eunchurn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/eunchurn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://soundcloud.com/eunchurn"><img alt="SoundCloud" src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 10월 2일 수요일 오후 3:11 GMT+9<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 10월 2일 수요일 오후 6:08 GMT+9<br />
 <p align="center"><img src="https://github.com/eunchurn/eunchurn/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/></p>
