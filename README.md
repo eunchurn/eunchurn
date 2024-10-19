@@ -13,9 +13,9 @@
  **🤓 My Personal GitHub Info** 
 
 ```properties
-🏆 3346 Personal contributions in the last year
+🏆 3347 Personal contributions in the last year
 
-🛡️ 22996 Total contributions when i start a github profile
+🛡️ 22997 Total contributions when i start a github profile
 
 💾 8.68 MB Used in Github's Storage
 
@@ -34,9 +34,9 @@ Not Opted to hire
 ```text
 🌞 Morning   607 commits    ██████████░░░░░░░░░░░░░░   41.26%
 
-🌆 Daytime   432 commits    ███████░░░░░░░░░░░░░░░░░   29.37%
+🌆 Daytime   431 commits    ███████░░░░░░░░░░░░░░░░░   29.3%
 
-🌉 Evening   375 commits    ██████░░░░░░░░░░░░░░░░░░   25.49%
+🌉 Evening   376 commits    ██████░░░░░░░░░░░░░░░░░░   25.56%
 
 🌕 Night     57 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.87%
 ```
@@ -53,9 +53,9 @@ Thursday     189 commits    ▒░░░░░░░░░░░░░░░░�
 
 Friday       310 commits    █████░░░░░░░░░░░░░░░░░░░░   20%
 
-Saturday     129 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   8.32%
+Saturday     130 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   8.39%
 
-Sunday       112 commits    ▒░░░░░░░░░░░░░░░░░░░░░░░   7.23%
+Sunday       111 commits    ▒░░░░░░░░░░░░░░░░░░░░░░░   7.16%
 ```
 
 🏷️ ***Languages*** 
@@ -157,7 +157,7 @@ EJS                      1 repo              ▒░░░░░░░░░░�
 
 
 ⌚ ***Last Stats Update on***
-Sat, 19 Oct 2024 18:09:33 GMT
+Sat, 19 Oct 2024 21:07:45 GMT
 <!--END_SECTION:waka-->
 
 <details>
@@ -335,5 +335,5 @@ Sat, 19 Oct 2024 18:09:33 GMT
 <p><a href="https://github.com/eunchurn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/eunchurn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://soundcloud.com/eunchurn"><img alt="SoundCloud" src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 10월 20일 일요일 오전 3:09 GMT+9<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 10월 20일 일요일 오전 6:07 GMT+9<br />
 <p align="center"><img src="https://github.com/eunchurn/eunchurn/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/></p>
