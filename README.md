@@ -23,7 +23,7 @@ Not Opted to hire
 
 📖 147 Public repos 
 
-🔐 171 Private repos 
+🔐 172 Private repos 
 
 🔃 31 Followers 
 
@@ -32,30 +32,30 @@ Not Opted to hire
 ```
 📆 **I am human 👨‍💻** 
 ```text
-🌞 Morning   464 commits    ██████████░░░░░░░░░░░░░░   43.04%
+🌞 Morning   552 commits    ███████████░░░░░░░░░░░░░   44.59%
 
-🌆 Daytime   267 commits    ██████░░░░░░░░░░░░░░░░░░   24.77%
+🌆 Daytime   323 commits    ██████░░░░░░░░░░░░░░░░░░   26.09%
 
-🌉 Evening   294 commits    ██████░░░░░░░░░░░░░░░░░░   27.27%
+🌉 Evening   305 commits    ██████░░░░░░░░░░░░░░░░░░   24.64%
 
-🌕 Night     53 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░   4.92%
+🌕 Night     58 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░   4.68%
 ```
 
 📅 **I do my best effort on** Monday
  ```text
-Monday       251 commits    █████░░░░░░░░░░░░░░░░░░░   21.73%
+Monday       291 commits    █████░░░░░░░░░░░░░░░░░░░   22.13%
 
-Tuesday      228 commits    ████░░░░░░░░░░░░░░░░░░░░   19.74%
+Tuesday      272 commits    █████░░░░░░░░░░░░░░░░░░░   20.68%
 
-Wednesday    167 commits    ▒░░░░░░░░░░░░░░░░░░░░░   14.46%
+Wednesday    194 commits    ▒░░░░░░░░░░░░░░░░░░░░░   14.75%
 
-Thursday     115 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   9.96%
+Thursday     139 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   10.57%
 
-Friday       172 commits    ▒░░░░░░░░░░░░░░░░░░░░░   14.89%
+Friday       198 commits    ▒░░░░░░░░░░░░░░░░░░░░░   15.06%
 
-Saturday     92 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░   7.97%
+Saturday     92 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░   7%
 
-Sunday       130 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   11.26%
+Sunday       129 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   9.81%
 ```
 
 🏷️ ***Languages*** 
@@ -127,37 +127,37 @@ Mac                      94 hrs 34 mins      ███████████�
 
 ***I Mostly Code in*** TypeScript 
 ```text
-TypeScript               42 repos            ████████████░░░░░░░░░░░░   49.41%
+TypeScript               43 repos            ████████████░░░░░░░░░░░░   50%
 
-JavaScript               8 repos             ▒░░░░░░░░░░░░░░░░░░░░░░   9.41%
+JavaScript               8 repos             ▒░░░░░░░░░░░░░░░░░░░░░░   9.3%
 
-HTML                     7 repos             ▒░░░░░░░░░░░░░░░░░░░░░░   8.24%
+HTML                     7 repos             ▒░░░░░░░░░░░░░░░░░░░░░░   8.14%
 
-HCL                      6 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   7.06%
+HCL                      6 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   6.98%
 
-C                        5 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   5.88%
+C                        5 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   5.81%
 
-Vue                      4 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   4.71%
+Vue                      4 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   4.65%
 
-CSS                      3 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.53%
+CSS                      3 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.49%
 
-Jupyter Notebook         2 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.35%
+Jupyter Notebook         2 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.33%
 
-Shell                    2 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.35%
+Shell                    2 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.33%
 
-TeX                      2 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.35%
+TeX                      2 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.33%
 
-SCSS                     2 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.35%
+SCSS                     2 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.33%
 
-MDX                      1 repo              ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.18%
+MDX                      1 repo              ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.16%
 
-EJS                      1 repo              ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.18%
+EJS                      1 repo              ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.16%
 ```
 
 
 
 ⌚ ***Last Stats Update on***
-Wed, 22 Jan 2025 00:39:39 GMT
+Wed, 22 Jan 2025 03:12:03 GMT
 <!--END_SECTION:waka-->
 
 <details>
@@ -330,10 +330,10 @@ Wed, 22 Jan 2025 00:39:39 GMT
 
 <h3>More..</h3>
 <p><img width="200" src="images/instagram-0.jpeg" /> <img width="200" src="images/instagram-1.jpeg" /> <img width="200" src="images/instagram-2.jpeg" /> <img width="200" src="images/instagram-3.jpeg" /></p>
-<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> 2°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;50d@2x.png" /><i>mist</i></b><br />Today, the sun rises at <b>오전 07:42</b> and sets at <b>오후 05:44</b>.</p>
+<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> 3°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;50d@2x.png" /><i>mist</i></b><br />Today, the sun rises at <b>오전 07:42</b> and sets at <b>오후 05:44</b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/eunchurn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/eunchurn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://soundcloud.com/eunchurn"><img alt="SoundCloud" src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 1월 22일 수요일 오전 9:39 GMT+9<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 1월 22일 수요일 오후 12:11 GMT+9<br />
 <p align="center"><img src="https://github.com/eunchurn/eunchurn/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/></p>
