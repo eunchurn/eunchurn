@@ -8,14 +8,14 @@
 <p>Welcome to my page! </br> I'm Eunchurn, Senior fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="13"/> <b>Seoul, Korea</b>. </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code_Time-4,042%20hrs%2051%20mins-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-3-red)
+![Code Time](http://img.shields.io/badge/Code_Time-4,043%20hrs%2046%20mins-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-3-red)
 
  **🤓 My Personal GitHub Info** 
 
 ```properties
-🏆 1225 Personal contributions in the last year
+🏆 1218 Personal contributions in the last year
 
-🛡️ 24972 Total contributions when i start a github profile
+🛡️ 24965 Total contributions when i start a github profile
 
 💾 8.71 MB Used in Github's Storage
 
@@ -23,7 +23,7 @@ Not Opted to hire
 
 📖 148 Public repos 
 
-🔐 177 Private repos 
+🔐 178 Private repos 
 
 🔃 31 Followers 
 
@@ -32,30 +32,30 @@ Not Opted to hire
 ```
 📆 **I am human 👨‍💻** 
 ```text
-🌞 Morning   520 commits    ███████████░░░░░░░░░░░░░   44.03%
+🌞 Morning   522 commits    ███████████░░░░░░░░░░░░░   44.13%
 
-🌆 Daytime   317 commits    ██████░░░░░░░░░░░░░░░░░░   26.84%
+🌆 Daytime   317 commits    ██████░░░░░░░░░░░░░░░░░░   26.8%
 
-🌉 Evening   298 commits    ██████░░░░░░░░░░░░░░░░░░   25.23%
+🌉 Evening   298 commits    ██████░░░░░░░░░░░░░░░░░░   25.19%
 
-🌕 Night     46 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.9%
+🌕 Night     46 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.89%
 ```
 
 📅 **I do my best effort on** Monday
  ```text
-Monday       283 commits    █████░░░░░░░░░░░░░░░░░░░   22.69%
+Monday       283 commits    █████░░░░░░░░░░░░░░░░░░░   22.68%
 
-Tuesday      255 commits    █████░░░░░░░░░░░░░░░░░░░   20.45%
+Tuesday      257 commits    █████░░░░░░░░░░░░░░░░░░░   20.59%
 
-Wednesday    184 commits    ▒░░░░░░░░░░░░░░░░░░░░░   14.76%
+Wednesday    184 commits    ▒░░░░░░░░░░░░░░░░░░░░░   14.74%
 
-Thursday     134 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   10.75%
+Thursday     134 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   10.74%
 
-Friday       179 commits    ▒░░░░░░░░░░░░░░░░░░░░░   14.35%
+Friday       179 commits    ▒░░░░░░░░░░░░░░░░░░░░░   14.34%
 
-Saturday     88 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░   7.06%
+Saturday     88 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░   7.05%
 
-Sunday       124 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   9.94%
+Sunday       123 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   9.86%
 ```
 
 🏷️ ***Languages*** 
@@ -121,35 +121,35 @@ Mac                      75 hrs 8 mins       ███████████�
 
 ***I Mostly Code in*** TypeScript 
 ```text
-TypeScript               45 repos            ████████████░░░░░░░░░░░░   51.14%
+TypeScript               44 repos            ████████████░░░░░░░░░░░░   50.57%
 
-JavaScript               8 repos             ▒░░░░░░░░░░░░░░░░░░░░░░   9.09%
+JavaScript               8 repos             ▒░░░░░░░░░░░░░░░░░░░░░░   9.2%
 
-HTML                     7 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   7.95%
+HTML                     7 repos             ▒░░░░░░░░░░░░░░░░░░░░░░   8.05%
 
-HCL                      6 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   6.82%
+HCL                      6 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   6.9%
 
-Vue                      6 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   6.82%
+Vue                      6 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   6.9%
 
-C                        5 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   5.68%
+C                        5 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   5.75%
 
-CSS                      3 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.41%
+CSS                      3 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.45%
 
-Shell                    2 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.27%
+Shell                    2 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.3%
 
-TeX                      2 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.27%
+TeX                      2 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.3%
 
-SCSS                     2 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.27%
+SCSS                     2 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.3%
 
-Jupyter Notebook         1 repo              ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.14%
+Jupyter Notebook         1 repo              ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.15%
 
-EJS                      1 repo              ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.14%
+EJS                      1 repo              ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.15%
 ```
 
 
 
 ⌚ ***Last Stats Update on***
-Tue, 15 Apr 2025 03:30:59 GMT
+Tue, 15 Apr 2025 06:13:44 GMT
 <!--END_SECTION:waka-->
 
 <details>
@@ -327,5 +327,5 @@ Tue, 15 Apr 2025 03:30:59 GMT
 <p><a href="https://github.com/eunchurn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/eunchurn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://soundcloud.com/eunchurn"><img alt="SoundCloud" src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 4월 15일 화요일 오후 12:30 GMT+9<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 4월 15일 화요일 오후 3:13 GMT+9<br />
 <p align="center"><img src="https://github.com/eunchurn/eunchurn/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/></p>
