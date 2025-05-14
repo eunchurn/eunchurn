@@ -36,9 +36,9 @@ Not Opted to hire
 
 🌆 Daytime   329 commits    ███████░░░░░░░░░░░░░░░░░   28.05%
 
-🌉 Evening   322 commits    ██████░░░░░░░░░░░░░░░░░░   27.45%
+🌉 Evening   323 commits    ██████░░░░░░░░░░░░░░░░░░   27.54%
 
-🌕 Night     45 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.84%
+🌕 Night     44 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.75%
 ```
 
 📅 **I do my best effort on** Monday
@@ -47,9 +47,9 @@ Monday       264 commits    █████░░░░░░░░░░░░�
 
 Tuesday      260 commits    █████░░░░░░░░░░░░░░░░░░░   21.05%
 
-Wednesday    159 commits    ▒░░░░░░░░░░░░░░░░░░░░░   12.87%
+Wednesday    160 commits    ▒░░░░░░░░░░░░░░░░░░░░░   12.96%
 
-Thursday     133 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   10.77%
+Thursday     132 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   10.69%
 
 Friday       185 commits    ▒░░░░░░░░░░░░░░░░░░░░░   14.98%
 
@@ -153,7 +153,7 @@ Go                       1 repo              ▒░░░░░░░░░░�
 
 
 ⌚ ***Last Stats Update on***
-Wed, 14 May 2025 18:12:11 GMT
+Wed, 14 May 2025 21:07:19 GMT
 <!--END_SECTION:waka-->
 
 <details>
@@ -326,10 +326,10 @@ Wed, 14 May 2025 18:12:11 GMT
 
 <h3>More..</h3>
 <p><img width="200" src="images/instagram-0.jpeg" /> <img width="200" src="images/instagram-1.jpeg" /> <img width="200" src="images/instagram-2.jpeg" /> <img width="200" src="images/instagram-3.jpeg" /></p>
-<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> 17°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;10n@2x.png" /><i>light rain</i></b><br />Today, the sun rises at <b>오전 05:23</b> and sets at <b>오후 07:33</b>.</p>
+<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> 17°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;04d@2x.png" /><i>overcast clouds</i></b><br />Today, the sun rises at <b>오전 05:23</b> and sets at <b>오후 07:33</b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/eunchurn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/eunchurn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://soundcloud.com/eunchurn"><img alt="SoundCloud" src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 5월 15일 목요일 오전 3:12 GMT+9<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 5월 15일 목요일 오전 6:07 GMT+9<br />
 <p align="center"><img src="https://github.com/eunchurn/eunchurn/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/></p>
