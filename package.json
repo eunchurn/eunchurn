@@ -19,7 +19,7 @@
   "dependencies": {
     "@octokit/rest": "^22.0.0",
     "axios": "^1.7.9",
-    "dotenv": "^16.4.7",
+    "dotenv": "^17.0.0",
     "instagram-private-api": "^1.46.1",
     "mustache": "^4.2.0",
     "node-fetch": "^3.3.2",
