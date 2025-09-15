@@ -8,14 +8,14 @@
 <p>Welcome to my page! </br> I'm Eunchurn, Senior fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="13"/> <b>Seoul, Korea</b>. </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code_Time-4,536%20hrs%2025%20mins-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-1-red)
+![Code Time](http://img.shields.io/badge/Code_Time-4,536%20hrs%2059%20mins-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-1-red)
 
  **🤓 My Personal GitHub Info** 
 
 ```properties
-🏆 1656 Personal contributions in the last year
+🏆 1657 Personal contributions in the last year
 
-🛡️ 15035 Total contributions when i start a github profile
+🛡️ 15036 Total contributions when i start a github profile
 
 💾 8.89 MB Used in Github's Storage
 
@@ -23,7 +23,7 @@ Not Opted to hire
 
 📖 149 Public repos 
 
-🔐 215 Private repos 
+🔐 216 Private repos 
 
 🔃 30 Followers 
 
@@ -32,30 +32,30 @@ Not Opted to hire
 ```
 📆 **I am human 👨‍💻** 
 ```text
-🌞 Morning   466 commits    ██████████░░░░░░░░░░░░░░   41.42%
+🌞 Morning   463 commits    ██████████░░░░░░░░░░░░░░   41.45%
 
-🌆 Daytime   281 commits    ██████░░░░░░░░░░░░░░░░░░   24.98%
+🌆 Daytime   281 commits    ██████░░░░░░░░░░░░░░░░░░   25.16%
 
-🌉 Evening   355 commits    ███████░░░░░░░░░░░░░░░░░   31.56%
+🌉 Evening   353 commits    ███████░░░░░░░░░░░░░░░░░   31.6%
 
-🌕 Night     23 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.04%
+🌕 Night     20 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.79%
 ```
 
 📅 **I do my best effort on** Monday
  ```text
-Monday       351 commits    ███████░░░░░░░░░░░░░░░░░   31.09%
+Monday       352 commits    ███████░░░░░░░░░░░░░░░░░   31.37%
 
-Tuesday      131 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   11.6%
+Tuesday      131 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   11.68%
 
-Wednesday    99 commits     ▒░░░░░░░░░░░░░░░░░░░░░░   8.77%
+Wednesday    96 commits     ▒░░░░░░░░░░░░░░░░░░░░░░   8.56%
 
-Thursday     86 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░   7.62%
+Thursday     84 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░   7.49%
 
-Friday       167 commits    ▒░░░░░░░░░░░░░░░░░░░░░   14.79%
+Friday       164 commits    ▒░░░░░░░░░░░░░░░░░░░░░   14.62%
 
-Saturday     148 commits    ▒░░░░░░░░░░░░░░░░░░░░░   13.11%
+Saturday     148 commits    ▒░░░░░░░░░░░░░░░░░░░░░   13.19%
 
-Sunday       147 commits    ▒░░░░░░░░░░░░░░░░░░░░░   13.02%
+Sunday       147 commits    ▒░░░░░░░░░░░░░░░░░░░░░   13.1%
 ```
 
 🏷️ ***Languages*** 
@@ -125,11 +125,11 @@ Mac                      84 hrs 32 mins      ███████████�
 ```text
 TypeScript               50 repos            ██████████████░░░░░░░░░░   56.18%
 
-JavaScript               7 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   7.87%
-
 Vue                      7 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   7.87%
 
-Shell                    6 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   6.74%
+Shell                    7 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   7.87%
+
+JavaScript               6 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   6.74%
 
 C                        5 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   5.62%
 
@@ -149,7 +149,7 @@ Go                       1 repo              ▒░░░░░░░░░░�
 
 
 ⌚ ***Last Stats Update on***
-Mon, 15 Sep 2025 18:13:38 GMT
+Mon, 15 Sep 2025 21:07:48 GMT
 <!--END_SECTION:waka-->
 
 <details>
@@ -327,5 +327,5 @@ Mon, 15 Sep 2025 18:13:38 GMT
 <p><a href="https://github.com/eunchurn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/eunchurn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://soundcloud.com/eunchurn"><img alt="SoundCloud" src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 9월 16일 화요일 오전 3:13 GMT+9<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 9월 16일 화요일 오전 6:07 GMT+9<br />
 <p align="center"><img src="https://github.com/eunchurn/eunchurn/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/></p>
