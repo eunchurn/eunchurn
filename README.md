@@ -8,14 +8,14 @@
 <p>Welcome to my page! </br> I'm Eunchurn, Senior fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="13"/> <b>Seoul, Korea</b>. </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code_Time-4,632%20hrs%2059%20mins-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-24-red)
+![Code Time](http://img.shields.io/badge/Code_Time-4,633%20hrs%202%20mins-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-24-red)
 
  **🤓 My Personal GitHub Info** 
 
 ```properties
-🏆 5078 Personal contributions in the last year
+🏆 5079 Personal contributions in the last year
 
-🛡️ 29430 Total contributions when i start a github profile
+🛡️ 29431 Total contributions when i start a github profile
 
 💾 8.91 MB Used in Github's Storage
 
@@ -157,7 +157,7 @@ Go                       1 repo              ▒░░░░░░░░░░�
 
 
 ⌚ ***Last Stats Update on***
-Mon, 27 Oct 2025 03:25:27 GMT
+Mon, 27 Oct 2025 06:01:24 GMT
 <!--END_SECTION:waka-->
 
 <details>
@@ -335,5 +335,5 @@ Mon, 27 Oct 2025 03:25:27 GMT
 <p><a href="https://github.com/eunchurn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/eunchurn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://soundcloud.com/eunchurn"><img alt="SoundCloud" src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 10월 27일 월요일 오후 12:25 GMT+9<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 10월 27일 월요일 오후 3:01 GMT+9<br />
 <p align="center"><img src="https://github.com/eunchurn/eunchurn/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/></p>
