@@ -5,7 +5,7 @@
 <p>Welcome to my page! </br> I'm Eunchurn, Senior fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="13"/> <b>Seoul, Korea</b>. </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code_Time-4,826%20hrs%2016%20mins-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-26-red)
+![Code Time](http://img.shields.io/badge/Code_Time-4,826%20hrs%2037%20mins-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-26-red)
 
  **🤓 My Personal GitHub Info** 
 
@@ -29,30 +29,30 @@ Not Opted to hire
 ```
 📆 **I am human 👨‍💻** 
 ```text
-🌞 Morning   317 commits    ████████░░░░░░░░░░░░░░░░   34.09%
+🌞 Morning   318 commits    ████████░░░░░░░░░░░░░░░░   34.16%
 
-🌆 Daytime   237 commits    ██████░░░░░░░░░░░░░░░░░░   25.48%
+🌆 Daytime   237 commits    ██████░░░░░░░░░░░░░░░░░░   25.46%
 
-🌉 Evening   370 commits    █████████░░░░░░░░░░░░░░░   39.78%
+🌉 Evening   370 commits    █████████░░░░░░░░░░░░░░░   39.74%
 
-🌕 Night     6 commits      ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.65%
+🌕 Night     6 commits      ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.64%
 ```
 
 📅 **I do my best effort on** Monday
  ```text
-Monday       292 commits    ███████░░░░░░░░░░░░░░░░░   31.26%
+Monday       292 commits    ███████░░░░░░░░░░░░░░░░░   31.23%
 
-Tuesday      74 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░   7.92%
+Tuesday      74 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░   7.91%
 
 Wednesday    57 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░   6.1%
 
-Thursday     66 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░   7.07%
+Thursday     66 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░   7.06%
 
-Friday       75 commits     ▒░░░░░░░░░░░░░░░░░░░░░░   8.03%
+Friday       76 commits     ▒░░░░░░░░░░░░░░░░░░░░░░   8.13%
 
-Saturday     177 commits    ████░░░░░░░░░░░░░░░░░░░░   18.95%
+Saturday     177 commits    ████░░░░░░░░░░░░░░░░░░░░   18.93%
 
-Sunday       193 commits    █████░░░░░░░░░░░░░░░░░░░   20.66%
+Sunday       193 commits    █████░░░░░░░░░░░░░░░░░░░   20.64%
 ```
 
 🏷️ ***Languages*** 
@@ -168,7 +168,7 @@ Go                       1 repo              ▒░░░░░░░░░░�
 
 
 ⌚ ***Last Stats Update on***
-Fri, 09 Jan 2026 03:29:03 GMT
+Fri, 09 Jan 2026 06:01:11 GMT
 <!--END_SECTION:waka-->
 
 <details>
@@ -340,11 +340,11 @@ Fri, 09 Jan 2026 03:29:03 GMT
 </p>
 
 <h3>More..</h3>
-<p><img width="200" src="images/instagram-0.jpeg" /> <img width="200" src="images/instagram-1.jpeg" /> <img width="200" src="images/instagram-2.jpeg" /> <img width="200" src="" /></p>
-<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> 3°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;04d@2x.png" /><i>broken clouds</i></b><br />Today, the sun rises at <b>오전 07:47</b> and sets at <b>오후 05:30</b>.</p>
+<p><img width="200" src="images/instagram-0.jpeg" /> <img width="200" src="images/instagram-1.jpeg" /> <img width="200" src="images/instagram-2.jpeg" /> <img width="200" src="images/instagram-3.jpeg" /></p>
+<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> 4°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;04d@2x.png" /><i>broken clouds</i></b><br />Today, the sun rises at <b>오전 07:47</b> and sets at <b>오후 05:30</b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/eunchurn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/eunchurn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://soundcloud.com/eunchurn"><img alt="SoundCloud" src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 1월 9일 금요일 오후 12:28 GMT+9<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 1월 9일 금요일 오후 3:01 GMT+9<br />
 <p align="center"><img src="https://github.com/eunchurn/eunchurn/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/></p>
