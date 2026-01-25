@@ -18,9 +18,9 @@
 
 Not Opted to hire
 
-📖 150 Public repos 
+📖 141 Public repos 
 
-🔐 230 Private repos 
+🔐 238 Private repos 
 
 🔃 34 Followers 
 
@@ -142,31 +142,33 @@ Mac                      59 hrs 24 mins      ███████████�
 
 ***I Mostly Code in*** TypeScript 
 ```text
-TypeScript               57 repos            ███████████████░░░░░░░░░░   60%
+TypeScript               57 repos            ██████████████░░░░░░░░░░   59.38%
 
-Shell                    8 repos             ▒░░░░░░░░░░░░░░░░░░░░░░   8.42%
+Shell                    8 repos             ▒░░░░░░░░░░░░░░░░░░░░░░   8.33%
 
-Vue                      7 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   7.37%
+Vue                      7 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   7.29%
 
-JavaScript               6 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   6.32%
+JavaScript               6 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   6.25%
 
-C                        6 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   6.32%
+C                        6 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   6.25%
 
-HTML                     4 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   4.21%
+HTML                     4 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   4.17%
 
-SCSS                     2 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.11%
+SCSS                     2 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.08%
 
-CSS                      2 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.11%
+CSS                      2 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.08%
 
-HCL                      2 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.11%
+HCL                      2 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.08%
 
-Go                       1 repo              ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.05%
+TeX                      1 repo              ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.04%
+
+Go                       1 repo              ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.04%
 ```
 
 
 
 ⌚ ***Last Stats Update on***
-Sun, 25 Jan 2026 12:01:54 GMT
+Sun, 25 Jan 2026 15:01:00 GMT
 <!--END_SECTION:waka-->
 
 <details>
@@ -339,10 +341,10 @@ Sun, 25 Jan 2026 12:01:54 GMT
 
 <h3>More..</h3>
 <p><img width="200" src="images/instagram-0.jpeg" /> <img width="200" src="images/instagram-1.jpeg" /> <img width="200" src="images/instagram-2.jpeg" /> <img width="200" src="" /></p>
-<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> -6°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;01n@2x.png" /><i>clear sky</i></b><br />Today, the sun rises at <b>오전 07:41</b> and sets at <b>오후 05:47</b>.</p>
+<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> -9°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;01n@2x.png" /><i>clear sky</i></b><br />Today, the sun rises at <b>오전 07:40</b> and sets at <b>오후 05:48</b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/eunchurn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/eunchurn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://soundcloud.com/eunchurn"><img alt="SoundCloud" src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 1월 25일 일요일 오후 9:01 GMT+9<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 1월 26일 월요일 오전 12:00 GMT+9<br />
 <p align="center"><img src="https://github.com/eunchurn/eunchurn/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/></p>
