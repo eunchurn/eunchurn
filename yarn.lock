@@ -500,12 +500,13 @@ aws4@^1.8.0:
   integrity sha512-NmWvPnx0F1SfrQbYwOi7OeaNGokp9XhzNioJ/CSBs8Qa4vxug81mhJEAVZwxXuBmYB5KDRfMq/F3RR0BIU7sWg==
 
 axios@^1.13.2:
-  version "1.14.0"
-  resolved "https://registry.yarnpkg.com/axios/-/axios-1.14.0.tgz#7c29f4cf2ea91ef05018d5aa5399bf23ed3120eb"
-  integrity sha512-3Y8yrqLSwjuzpXuZ0oIYZ/XGgLwUIBU3uLvbcpb0pidD9ctpShJd43KSlEEkVQg6DS0G9NKyzOvBfUtDKEyHvQ==
+  version "1.14.1"
+  resolved "https://registry.yarnpkg.com/axios/-/axios-1.14.1.tgz#2553649f2322049666871cea80a5d0d6adc700ca"
+  integrity sha512-vF/aB4vrIzLyOb2TB9gpuE8gusNHpZqk2ZZcAqSnRjW5IcY7tFSBEurD2tbakohj0Rw5xMHYwjSqOGSfr0iewA==
   dependencies:
     follow-redirects "^1.15.11"
     form-data "^4.0.5"
+    plain-crypto-js "^4.2.1"
     proxy-from-env "^2.1.0"
 
 b4a@^1.6.4:
@@ -2152,6 +2153,11 @@ pify@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/pify/-/pify-3.0.0.tgz#e5a4acd2c101fdf3d9a4d07f0dbc4db49dd28176"
   integrity sha1-5aSs0sEB/fPZpNB/DbxNtJ3SgXY=
+
+plain-crypto-js@^4.2.1:
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/plain-crypto-js/-/plain-crypto-js-4.2.1.tgz#07d889e2dadce6f3910dcbc253317d28ca61c766"
+  integrity sha512-Wv41p4/aEMq03JjDqi0JxPYT4aoMbbQMSM8ur4QkjvjGEeuYvI7rGkqLcOZ7K1iThQGvpNvJnxRWcNodCNuEEQ==
 
 process-nextick-args@~2.0.0:
   version "2.0.1"
