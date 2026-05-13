@@ -29,30 +29,30 @@ Not Opted to hire
 ```
 📆 **I am human 👨‍💻** 
 ```text
-🌞 Morning   340 commits    ████████░░░░░░░░░░░░░░░░   32.82%
+🌞 Morning   328 commits    ████████░░░░░░░░░░░░░░░░   33.1%
 
-🌆 Daytime   315 commits    ███████░░░░░░░░░░░░░░░░░   30.41%
+🌆 Daytime   304 commits    ███████░░░░░░░░░░░░░░░░░   30.68%
 
-🌉 Evening   370 commits    ████████░░░░░░░░░░░░░░░░   35.71%
+🌉 Evening   348 commits    ████████░░░░░░░░░░░░░░░░   35.12%
 
-🌕 Night     11 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.06%
+🌕 Night     11 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.11%
 ```
 
 📅 **I do my best effort on** Wednesday
  ```text
-Monday       166 commits    ▒░░░░░░░░░░░░░░░░░░░░░   15.93%
+Monday       160 commits    ████░░░░░░░░░░░░░░░░░░░░   16.05%
 
-Tuesday      108 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   10.36%
+Tuesday      102 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   10.23%
 
-Wednesday    191 commits    ████░░░░░░░░░░░░░░░░░░░░   18.33%
+Wednesday    194 commits    ████░░░░░░░░░░░░░░░░░░░░   19.46%
 
-Thursday     113 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   10.84%
+Thursday     112 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   11.23%
 
-Friday       159 commits    ▒░░░░░░░░░░░░░░░░░░░░░   15.26%
+Friday       151 commits    ▒░░░░░░░░░░░░░░░░░░░░░   15.15%
 
-Saturday     118 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   11.32%
+Saturday     95 commits     ▒░░░░░░░░░░░░░░░░░░░░░░   9.53%
 
-Sunday       187 commits    ████░░░░░░░░░░░░░░░░░░░░   17.95%
+Sunday       183 commits    ████░░░░░░░░░░░░░░░░░░░░   18.36%
 ```
 
 🏷️ ***Languages*** 
@@ -154,7 +154,7 @@ HCL                      2 repos             ▒░░░░░░░░░░�
 
 
 ⌚ ***Last Stats Update on***
-Wed, 13 May 2026 06:55:09 GMT
+Wed, 13 May 2026 09:51:03 GMT
 <!--END_SECTION:waka-->
 
 <details>
@@ -327,10 +327,10 @@ Wed, 13 May 2026 06:55:09 GMT
 
 <h3>More..</h3>
 <p><img width="200" src="images/instagram-0.jpeg" /> <img width="200" src="images/instagram-1.jpeg" /> <img width="200" src="images/instagram-2.jpeg" /> <img width="200" src="" /></p>
-<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> 23°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;01d@2x.png" /><i>clear sky</i></b><br />Today, the sun rises at <b>AM 05:25</b> and sets at <b>PM 07:31</b>.</p>
+<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> 22°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;01d@2x.png" /><i>clear sky</i></b><br />Today, the sun rises at <b>AM 05:25</b> and sets at <b>PM 07:31</b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/eunchurn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/eunchurn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://soundcloud.com/eunchurn"><img alt="SoundCloud" src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 5월 13일 수요일 PM 3:54 GMT+9<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 5월 13일 수요일 PM 6:50 GMT+9<br />
 <p align="center"><img src="https://github.com/eunchurn/eunchurn/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/></p>
