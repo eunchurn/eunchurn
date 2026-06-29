@@ -10,9 +10,9 @@
  **🤓 My Personal GitHub Info** 
 
 ```properties
-🏆 2851 Personal contributions in the last year
+🏆 2852 Personal contributions in the last year
 
-🛡️ 37197 Total contributions when i start a github profile
+🛡️ 37198 Total contributions when i start a github profile
 
 💾 9.02 MB Used in Github's Storage
 
@@ -29,30 +29,30 @@ Not Opted to hire
 ```
 📆 **I am human 👨‍💻** 
 ```text
-🌞 Morning   288 commits    █████████░░░░░░░░░░░░░░░   36.41%
+🌞 Morning   284 commits    █████████░░░░░░░░░░░░░░░   36.09%
 
-🌆 Daytime   241 commits    ███████░░░░░░░░░░░░░░░░░   30.47%
+🌆 Daytime   241 commits    ███████░░░░░░░░░░░░░░░░░   30.62%
 
-🌉 Evening   249 commits    ███████░░░░░░░░░░░░░░░░░   31.48%
+🌉 Evening   249 commits    ███████░░░░░░░░░░░░░░░░░   31.64%
 
-🌕 Night     13 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.64%
+🌕 Night     13 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.65%
 ```
 
 📅 **I do my best effort on** Wednesday
  ```text
-Monday       121 commits    ▒░░░░░░░░░░░░░░░░░░░░░   15.05%
+Monday       121 commits    ▒░░░░░░░░░░░░░░░░░░░░░   15.13%
 
-Tuesday      85 commits     ▒░░░░░░░░░░░░░░░░░░░░░░   10.57%
+Tuesday      81 commits     ▒░░░░░░░░░░░░░░░░░░░░░░   10.13%
 
-Wednesday    207 commits    ██████░░░░░░░░░░░░░░░░░░   25.75%
+Wednesday    207 commits    ██████░░░░░░░░░░░░░░░░░░   25.87%
 
-Thursday     101 commits    ▒░░░░░░░░░░░░░░░░░░░░░   12.56%
+Thursday     101 commits    ▒░░░░░░░░░░░░░░░░░░░░░   12.63%
 
-Friday       128 commits    ▒░░░░░░░░░░░░░░░░░░░░░   15.92%
+Friday       128 commits    ████░░░░░░░░░░░░░░░░░░░░░   16%
 
-Saturday     63 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░   7.84%
+Saturday     63 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░   7.88%
 
-Sunday       99 commits     ▒░░░░░░░░░░░░░░░░░░░░░   12.31%
+Sunday       99 commits     ▒░░░░░░░░░░░░░░░░░░░░░   12.38%
 ```
 
 🏷️ ***Languages*** 
@@ -93,7 +93,7 @@ Python                   1 repo              ▒░░░░░░░░░░�
 
 
 ⌚ ***Last Stats Update on***
-Mon, 29 Jun 2026 13:19:09 GMT
+Mon, 29 Jun 2026 16:15:55 GMT
 <!--END_SECTION:waka-->
 
 <details>
@@ -266,10 +266,10 @@ Mon, 29 Jun 2026 13:19:09 GMT
 
 <h3>More..</h3>
 <p><img width="200" src="images/instagram-0.jpeg" /> <img width="200" src="images/instagram-1.jpeg" /> <img width="200" src="images/instagram-2.jpeg" /> <img width="200" src="" /></p>
-<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> 26°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;04n@2x.png" /><i>overcast clouds</i></b><br />Today, the sun rises at <b>오전 05:13</b> and sets at <b>오후 07:57</b>.</p>
+<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> 24°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;04n@2x.png" /><i>overcast clouds</i></b><br />Today, the sun rises at <b>오전 05:13</b> and sets at <b>오후 07:57</b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/eunchurn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/eunchurn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://soundcloud.com/eunchurn"><img alt="SoundCloud" src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 6월 29일 월요일 오후 10:18 GMT+9<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 6월 30일 화요일 오전 1:15 GMT+9<br />
 <p align="center"><img src="https://github.com/eunchurn/eunchurn/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/></p>
