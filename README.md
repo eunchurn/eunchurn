@@ -10,9 +10,9 @@
  **🤓 My Personal GitHub Info** 
 
 ```properties
-🏆 3684 Personal contributions in the last year
+🏆 3722 Personal contributions in the last year
 
-🛡️ 38029 Total contributions when i start a github profile
+🛡️ 38067 Total contributions when i start a github profile
 
 💾 9.06 MB Used in Github's Storage
 
@@ -29,30 +29,30 @@ Not Opted to hire
 ```
 📆 **I am human 👨‍💻** 
 ```text
-🌞 Morning   331 commits    ████████░░░░░░░░░░░░░░░░   34.99%
+🌞 Morning   314 commits    ████████░░░░░░░░░░░░░░░░   33.16%
 
-🌆 Daytime   268 commits    ███████░░░░░░░░░░░░░░░░░   28.33%
+🌆 Daytime   278 commits    ███████░░░░░░░░░░░░░░░░░   29.36%
 
-🌉 Evening   329 commits    ████████░░░░░░░░░░░░░░░░   34.78%
+🌉 Evening   338 commits    ████████░░░░░░░░░░░░░░░░   35.69%
 
-🌕 Night     18 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.9%
+🌕 Night     17 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.8%
 ```
 
 📅 **I do my best effort on** Wednesday
  ```text
-Monday       158 commits    ████░░░░░░░░░░░░░░░░░░░░   16.53%
+Monday       157 commits    ████░░░░░░░░░░░░░░░░░░░░   16.42%
 
 Tuesday      116 commits    ▒░░░░░░░░░░░░░░░░░░░░░   12.13%
 
-Wednesday    255 commits    ██████░░░░░░░░░░░░░░░░░░   26.67%
+Wednesday    259 commits    ██████░░░░░░░░░░░░░░░░░░   27.09%
 
-Thursday     117 commits    ▒░░░░░░░░░░░░░░░░░░░░░   12.24%
+Thursday     111 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   11.61%
 
-Friday       135 commits    ▒░░░░░░░░░░░░░░░░░░░░░   14.12%
+Friday       129 commits    ▒░░░░░░░░░░░░░░░░░░░░░   13.49%
 
-Saturday     69 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░   7.22%
+Saturday     79 commits     ▒░░░░░░░░░░░░░░░░░░░░░░   8.26%
 
-Sunday       106 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   11.09%
+Sunday       105 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   10.98%
 ```
 
 🏷️ ***Languages*** 
@@ -93,7 +93,7 @@ Python                   1 repo              ▒░░░░░░░░░░�
 
 
 ⌚ ***Last Stats Update on***
-Sun, 30 Aug 2026 06:03:09 GMT
+Sun, 30 Aug 2026 09:01:38 GMT
 <!--END_SECTION:waka-->
 
 <details>
@@ -271,5 +271,5 @@ Sun, 30 Aug 2026 06:03:09 GMT
 <p><a href="https://github.com/eunchurn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/eunchurn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://soundcloud.com/eunchurn"><img alt="SoundCloud" src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 8월 30일 일요일 오후 3:03 GMT+9<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 8월 30일 일요일 오후 6:01 GMT+9<br />
 <p align="center"><img src="https://github.com/eunchurn/eunchurn/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/></p>
