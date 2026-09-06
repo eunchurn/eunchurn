@@ -20,7 +20,7 @@ Not Opted to hire
 
 📖 140 Public repos 
 
-🔐 242 Private repos 
+🔐 243 Private repos 
 
 🔃 39 Followers 
 
@@ -29,30 +29,30 @@ Not Opted to hire
 ```
 📆 **I am human 👨‍💻** 
 ```text
-🌞 Morning   333 commits    ████████░░░░░░░░░░░░░░░░   32.24%
+🌞 Morning   333 commits    ███████░░░░░░░░░░░░░░░░░   31.99%
 
-🌆 Daytime   319 commits    ███████░░░░░░░░░░░░░░░░░   30.88%
+🌆 Daytime   319 commits    ███████░░░░░░░░░░░░░░░░░   30.64%
 
-🌉 Evening   364 commits    ████████░░░░░░░░░░░░░░░░   35.24%
+🌉 Evening   372 commits    ████████░░░░░░░░░░░░░░░░   35.73%
 
-🌕 Night     17 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.65%
+🌕 Night     17 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.63%
 ```
 
 📅 **I do my best effort on** Wednesday
  ```text
-Monday       162 commits    ▒░░░░░░░░░░░░░░░░░░░░░   15.33%
+Monday       162 commits    ▒░░░░░░░░░░░░░░░░░░░░░   15.21%
 
-Tuesday      126 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   11.92%
+Tuesday      126 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   11.83%
 
-Wednesday    259 commits    ██████░░░░░░░░░░░░░░░░░░   24.5%
+Wednesday    262 commits    ██████░░░░░░░░░░░░░░░░░░   24.6%
 
-Thursday     119 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   11.26%
+Thursday     119 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   11.17%
 
-Friday       150 commits    ▒░░░░░░░░░░░░░░░░░░░░░   14.19%
+Friday       150 commits    ▒░░░░░░░░░░░░░░░░░░░░░   14.08%
 
-Saturday     87 commits     ▒░░░░░░░░░░░░░░░░░░░░░░   8.23%
+Saturday     87 commits     ▒░░░░░░░░░░░░░░░░░░░░░░   8.17%
 
-Sunday       154 commits    ▒░░░░░░░░░░░░░░░░░░░░░   14.57%
+Sunday       159 commits    ▒░░░░░░░░░░░░░░░░░░░░░   14.93%
 ```
 
 🏷️ ***Languages*** 
@@ -63,17 +63,17 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ***I Mostly Code in*** TypeScript 
 ```text
-TypeScript               58 repos            ███████████████░░░░░░░░░   61.7%
+TypeScript               59 repos            ███████████████░░░░░░░░░   62.77%
 
 Shell                    8 repos             ▒░░░░░░░░░░░░░░░░░░░░░░   8.51%
 
 Vue                      5 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   5.32%
 
-C                        4 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   4.26%
-
 JavaScript               4 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   4.26%
 
 HTML                     4 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   4.26%
+
+C                        3 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.19%
 
 SCSS                     2 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
 
@@ -93,7 +93,7 @@ Python                   1 repo              ▒░░░░░░░░░░�
 
 
 ⌚ ***Last Stats Update on***
-Sun, 06 Sep 2026 15:01:50 GMT
+Sun, 06 Sep 2026 18:02:02 GMT
 <!--END_SECTION:waka-->
 
 <details>
@@ -266,10 +266,10 @@ Sun, 06 Sep 2026 15:01:50 GMT
 
 <h3>More..</h3>
 <p><img width="200" src="images/instagram-0.jpeg" /> <img width="200" src="images/instagram-1.jpeg" /> <img width="200" src="images/instagram-2.jpeg" /> <img width="200" src="" /></p>
-<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> 21°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;01n@2x.png" /><i>clear sky</i></b><br />Today, the sun rises at <b>오전 06:06</b> and sets at <b>오후 06:55</b>.</p>
+<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> 19°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;01n@2x.png" /><i>clear sky</i></b><br />Today, the sun rises at <b>오전 06:07</b> and sets at <b>오후 06:54</b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/eunchurn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/eunchurn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://soundcloud.com/eunchurn"><img alt="SoundCloud" src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 9월 7일 월요일 오전 12:01 GMT+9<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 9월 7일 월요일 오전 3:01 GMT+9<br />
 <p align="center"><img src="https://github.com/eunchurn/eunchurn/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/></p>
