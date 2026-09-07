@@ -10,9 +10,9 @@
  **🤓 My Personal GitHub Info** 
 
 ```properties
-🏆 4083 Personal contributions in the last year
+🏆 4098 Personal contributions in the last year
 
-🛡️ 38428 Total contributions when i start a github profile
+🛡️ 38443 Total contributions when i start a github profile
 
 💾 9.07 MB Used in Github's Storage
 
@@ -29,30 +29,30 @@ Not Opted to hire
 ```
 📆 **I am human 👨‍💻** 
 ```text
-🌞 Morning   344 commits    ████████░░░░░░░░░░░░░░░░   32.79%
+🌞 Morning   346 commits    ████████░░░░░░░░░░░░░░░░   32.67%
 
-🌆 Daytime   319 commits    ███████░░░░░░░░░░░░░░░░░   30.41%
+🌆 Daytime   327 commits    ███████░░░░░░░░░░░░░░░░░   30.88%
 
-🌉 Evening   369 commits    ████████░░░░░░░░░░░░░░░░   35.18%
+🌉 Evening   369 commits    ████████░░░░░░░░░░░░░░░░   34.84%
 
-🌕 Night     17 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.62%
+🌕 Night     17 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.61%
 ```
 
 📅 **I do my best effort on** Wednesday
  ```text
-Monday       173 commits    ████░░░░░░░░░░░░░░░░░░░░   16.12%
+Monday       184 commits    ████░░░░░░░░░░░░░░░░░░░░   16.99%
 
-Tuesday      126 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   11.74%
+Tuesday      126 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   11.63%
 
-Wednesday    262 commits    ██████░░░░░░░░░░░░░░░░░░   24.42%
+Wednesday    262 commits    ██████░░░░░░░░░░░░░░░░░░   24.19%
 
-Thursday     119 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   11.09%
+Thursday     118 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   10.9%
 
-Friday       150 commits    ▒░░░░░░░░░░░░░░░░░░░░░   13.98%
+Friday       150 commits    ▒░░░░░░░░░░░░░░░░░░░░░   13.85%
 
-Saturday     87 commits     ▒░░░░░░░░░░░░░░░░░░░░░░   8.11%
+Saturday     87 commits     ▒░░░░░░░░░░░░░░░░░░░░░░   8.03%
 
-Sunday       156 commits    ▒░░░░░░░░░░░░░░░░░░░░░   14.54%
+Sunday       156 commits    ▒░░░░░░░░░░░░░░░░░░░░░   14.4%
 ```
 
 🏷️ ***Languages*** 
@@ -93,7 +93,7 @@ Python                   1 repo              ▒░░░░░░░░░░�
 
 
 ⌚ ***Last Stats Update on***
-Mon, 07 Sep 2026 06:03:51 GMT
+Mon, 07 Sep 2026 09:02:53 GMT
 <!--END_SECTION:waka-->
 
 <details>
@@ -271,5 +271,5 @@ Mon, 07 Sep 2026 06:03:51 GMT
 <p><a href="https://github.com/eunchurn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/eunchurn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://soundcloud.com/eunchurn"><img alt="SoundCloud" src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 9월 7일 월요일 오후 3:03 GMT+9<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 9월 7일 월요일 오후 6:02 GMT+9<br />
 <p align="center"><img src="https://github.com/eunchurn/eunchurn/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/></p>
