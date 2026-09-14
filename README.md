@@ -10,9 +10,9 @@
  **🤓 My Personal GitHub Info** 
 
 ```properties
-🏆 4535 Personal contributions in the last year
+🏆 4542 Personal contributions in the last year
 
-🛡️ 38880 Total contributions when i start a github profile
+🛡️ 38887 Total contributions when i start a github profile
 
 💾 9.07 MB Used in Github's Storage
 
@@ -31,28 +31,28 @@ Not Opted to hire
 ```text
 🌞 Morning   351 commits    █████████░░░░░░░░░░░░░░░   36.64%
 
-🌆 Daytime   287 commits    ███████░░░░░░░░░░░░░░░░░   29.96%
+🌆 Daytime   286 commits    ███████░░░░░░░░░░░░░░░░░   29.85%
 
-🌉 Evening   304 commits    ███████░░░░░░░░░░░░░░░░░   31.73%
+🌉 Evening   305 commits    ███████░░░░░░░░░░░░░░░░░   31.84%
 
 🌕 Night     16 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.67%
 ```
 
 📅 **I do my best effort on** Wednesday
  ```text
-Monday       190 commits    ████░░░░░░░░░░░░░░░░░░░░   19.59%
+Monday       196 commits    █████░░░░░░░░░░░░░░░░░░░   20.21%
 
 Tuesday      108 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   11.13%
 
-Wednesday    252 commits    ██████░░░░░░░░░░░░░░░░░░   25.98%
+Wednesday    249 commits    ██████░░░░░░░░░░░░░░░░░░   25.67%
 
 Thursday     102 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   10.52%
 
 Friday       160 commits    ████░░░░░░░░░░░░░░░░░░░░   16.49%
 
-Saturday     49 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░   5.05%
+Saturday     48 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░   4.95%
 
-Sunday       109 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   11.24%
+Sunday       107 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   11.03%
 ```
 
 🏷️ ***Languages*** 
@@ -93,7 +93,7 @@ Python                   1 repo              ▒░░░░░░░░░░�
 
 
 ⌚ ***Last Stats Update on***
-Mon, 14 Sep 2026 18:02:16 GMT
+Mon, 14 Sep 2026 21:01:44 GMT
 <!--END_SECTION:waka-->
 
 <details>
@@ -266,10 +266,10 @@ Mon, 14 Sep 2026 18:02:16 GMT
 
 <h3>More..</h3>
 <p><img width="200" src="images/instagram-0.jpeg" /> <img width="200" src="images/instagram-1.jpeg" /> <img width="200" src="images/instagram-2.jpeg" /> <img width="200" src="" /></p>
-<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> 15°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;01n@2x.png" /><i>clear sky</i></b><br />Today, the sun rises at <b>오전 06:13</b> and sets at <b>오후 06:41</b>.</p>
+<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> 13°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;01n@2x.png" /><i>clear sky</i></b><br />Today, the sun rises at <b>오전 06:13</b> and sets at <b>오후 06:41</b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/eunchurn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/eunchurn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://soundcloud.com/eunchurn"><img alt="SoundCloud" src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 9월 15일 화요일 오전 3:02 GMT+9<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 9월 15일 화요일 오전 6:01 GMT+9<br />
 <p align="center"><img src="https://github.com/eunchurn/eunchurn/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/></p>
