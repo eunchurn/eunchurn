@@ -10,9 +10,9 @@
  **🤓 My Personal GitHub Info** 
 
 ```properties
-🏆 5508 Personal contributions in the last year
+🏆 5516 Personal contributions in the last year
 
-🛡️ 39853 Total contributions when i start a github profile
+🛡️ 39861 Total contributions when i start a github profile
 
 💾 9.11 MB Used in Github's Storage
 
@@ -20,7 +20,7 @@ Not Opted to hire
 
 📖 140 Public repos 
 
-🔐 243 Private repos 
+🔐 244 Private repos 
 
 🔃 39 Followers 
 
@@ -63,37 +63,37 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ***I Mostly Code in*** TypeScript 
 ```text
-TypeScript               60 repos            ███████████████░░░░░░░░░   63.83%
+TypeScript               60 repos            ████████████████░░░░░░░░   64.52%
 
-Shell                    8 repos             ▒░░░░░░░░░░░░░░░░░░░░░░   8.51%
+Shell                    8 repos             ▒░░░░░░░░░░░░░░░░░░░░░░   8.6%
 
-Vue                      5 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   5.32%
+Vue                      5 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   5.38%
 
-JavaScript               4 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   4.26%
+JavaScript               4 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   4.3%
 
-HTML                     4 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   4.26%
+HTML                     4 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░   4.3%
 
-C                        2 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
+SCSS                     2 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.15%
 
-SCSS                     2 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
+CSS                      2 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.15%
 
-CSS                      2 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
+Go                       2 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.15%
 
-Go                       2 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
+HCL                      2 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.15%
 
-HCL                      2 repos             ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
+C                        1 repo              ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.08%
 
-MDX                      1 repo              ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.06%
+MDX                      1 repo              ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.08%
 
-Java                     1 repo              ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.06%
+Java                     1 repo              ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.08%
 
-Python                   1 repo              ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.06%
+Python                   1 repo              ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.08%
 ```
 
 
 
 ⌚ ***Last Stats Update on***
-Tue, 29 Sep 2026 15:02:25 GMT
+Tue, 29 Sep 2026 18:02:39 GMT
 <!--END_SECTION:waka-->
 
 <details>
@@ -271,5 +271,5 @@ Tue, 29 Sep 2026 15:02:25 GMT
 <p><a href="https://github.com/eunchurn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/eunchurn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://soundcloud.com/eunchurn"><img alt="SoundCloud" src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 9월 30일 수요일 오전 12:02 GMT+9<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 9월 30일 수요일 오전 3:02 GMT+9<br />
 <p align="center"><img src="https://github.com/eunchurn/eunchurn/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/></p>
