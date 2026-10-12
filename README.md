@@ -10,11 +10,11 @@
  **🤓 My Personal GitHub Info** 
 
 ```properties
-🏆 7035 Personal contributions in the last year
+🏆 7040 Personal contributions in the last year
 
-🛡️ 41380 Total contributions when i start a github profile
+🛡️ 41385 Total contributions when i start a github profile
 
-💾 9.12 MB Used in Github's Storage
+💾 9.13 MB Used in Github's Storage
 
 Not Opted to hire
 
@@ -24,7 +24,7 @@ Not Opted to hire
 
 🔃 39 Followers 
 
-🔄 32 Following 
+🔄 33 Following 
 
 ```
 📆 **I am human 👨‍💻** 
@@ -93,7 +93,7 @@ Python                   1 repo              ▒░░░░░░░░░░�
 
 
 ⌚ ***Last Stats Update on***
-Mon, 12 Oct 2026 03:13:14 GMT
+Mon, 12 Oct 2026 06:07:34 GMT
 <!--END_SECTION:waka-->
 
 <details>
@@ -271,5 +271,5 @@ Mon, 12 Oct 2026 03:13:14 GMT
 <p><a href="https://github.com/eunchurn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/eunchurn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://soundcloud.com/eunchurn"><img alt="SoundCloud" src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 10월 12일 월요일 오후 12:13 GMT+9<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 10월 12일 월요일 오후 3:07 GMT+9<br />
 <p align="center"><img src="https://github.com/eunchurn/eunchurn/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/></p>
