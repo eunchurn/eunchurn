@@ -10,9 +10,9 @@
  **🤓 My Personal GitHub Info** 
 
 ```properties
-🏆 7481 Personal contributions in the last year
+🏆 7513 Personal contributions in the last year
 
-🛡️ 41835 Total contributions when i start a github profile
+🛡️ 41867 Total contributions when i start a github profile
 
 💾 9.13 MB Used in Github's Storage
 
@@ -29,24 +29,24 @@ Not Opted to hire
 ```
 📆 **I am human 👨‍💻** 
 ```text
-🌞 Morning   421 commits    █████████░░░░░░░░░░░░░░░   36.42%
+🌞 Morning   413 commits    █████████░░░░░░░░░░░░░░░   36.23%
 
-🌆 Daytime   372 commits    ████████░░░░░░░░░░░░░░░░   32.18%
+🌆 Daytime   370 commits    ████████░░░░░░░░░░░░░░░░   32.46%
 
-🌉 Evening   348 commits    ███████░░░░░░░░░░░░░░░░░   30.1%
+🌉 Evening   342 commits    ███████░░░░░░░░░░░░░░░░░   30%
 
-🌕 Night     15 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.3%
+🌕 Night     15 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.32%
 ```
 
 📅 **I do my best effort on** Wednesday
  ```text
-Monday       215 commits    ████░░░░░░░░░░░░░░░░░░░░   18.38%
+Monday       203 commits    ████░░░░░░░░░░░░░░░░░░░░   17.35%
 
-Tuesday      130 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   11.11%
+Tuesday      120 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   10.26%
 
-Wednesday    300 commits    ██████░░░░░░░░░░░░░░░░░░   25.64%
+Wednesday    314 commits    ██████░░░░░░░░░░░░░░░░░░   26.84%
 
-Thursday     148 commits    ▒░░░░░░░░░░░░░░░░░░░░░   12.65%
+Thursday     156 commits    ▒░░░░░░░░░░░░░░░░░░░░░   13.33%
 
 Friday       160 commits    ▒░░░░░░░░░░░░░░░░░░░░░   13.68%
 
@@ -93,7 +93,7 @@ Python                   1 repo              ▒░░░░░░░░░░�
 
 
 ⌚ ***Last Stats Update on***
-Thu, 15 Oct 2026 12:02:51 GMT
+Thu, 15 Oct 2026 18:02:55 GMT
 <!--END_SECTION:waka-->
 
 <details>
@@ -266,10 +266,10 @@ Thu, 15 Oct 2026 12:02:51 GMT
 
 <h3>More..</h3>
 <p><img width="200" src="images/instagram-0.jpeg" /> <img width="200" src="images/instagram-1.jpeg" /> <img width="200" src="images/instagram-2.jpeg" /> <img width="200" src="images/instagram-3.jpeg" /></p>
-<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> 18°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;04n@2x.png" /><i>broken clouds</i></b><br />Today, the sun rises at <b>오전 06:39</b> and sets at <b>오후 05:56</b>.</p>
+<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> 16°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;03n@2x.png" /><i>scattered clouds</i></b><br />Today, the sun rises at <b>오전 06:40</b> and sets at <b>오후 05:54</b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/eunchurn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/eunchurn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://soundcloud.com/eunchurn"><img alt="SoundCloud" src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 10월 15일 목요일 오후 9:02 GMT+9<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 10월 16일 금요일 오전 3:02 GMT+9<br />
 <p align="center"><img src="https://github.com/eunchurn/eunchurn/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/></p>
