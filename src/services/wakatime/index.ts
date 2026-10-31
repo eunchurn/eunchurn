@@ -258,7 +258,7 @@ function getStats() {
             user.following
           } Following \n`;
         }
-        stats = `${statistics}${traffics} **🤓 My Personal GitHub Info** \n\n${templateTag}properties\n${contribution.trimLeft()}\n${userInfo}\n${templateTag}`;
+        stats = `${statistics}${traffics}[![UsageScope ranking](https://api.usagescope.com/v1/badge/p_b6031e8fa0a747628daef71ee7e73006.svg)](https://usagescope.com)\n\n **🤓 My Personal GitHub Info** \n\n${templateTag}properties\n${contribution.trimLeft()}\n${userInfo}\n${templateTag}`;
         if (contributed) {
           repos = contributed.user.repositoriesContributedTo.nodes.filter(
             (a: any) => !a.isFork

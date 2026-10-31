@@ -1,4 +1,4 @@
-[![README build](https://github.com/eunchurn/eunchurn/actions/workflows/main.yml/badge.svg)](https://github.com/eunchurn/eunchurn/actions/workflows/main.yml) [![Unit Test](https://github.com/eunchurn/eunchurn/actions/workflows/unit-test.yml/badge.svg)](https://github.com/eunchurn/eunchurn/actions/workflows/unit-test.yml) [![UsageScope ranking](https://api.usagescope.com/v1/badge/p_b6031e8fa0a747628daef71ee7e73006.svg)](https://usagescope.com)
+[![README build](https://github.com/eunchurn/eunchurn/actions/workflows/main.yml/badge.svg)](https://github.com/eunchurn/eunchurn/actions/workflows/main.yml) [![Unit Test](https://github.com/eunchurn/eunchurn/actions/workflows/unit-test.yml/badge.svg)](https://github.com/eunchurn/eunchurn/actions/workflows/unit-test.yml)
 
 <h1><img src="kitty_chase_heart.gif" width="60"/> Hey! Nice to see you.</h1>
 
@@ -6,6 +6,8 @@
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code_Time-5,019%20hrs%2021%20mins-blue)   ![Profile Views](http://img.shields.io/badge/Profile_Views-5-red)
+
+[![UsageScope ranking](https://api.usagescope.com/v1/badge/p_b6031e8fa0a747628daef71ee7e73006.svg)](https://usagescope.com)
 
  **🤓 My Personal GitHub Info** 
 
