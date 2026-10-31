@@ -71,9 +71,9 @@ jobs:
         SHOW_WAKASTAT: true
         SHOW_COMMIT: true
         SHOW_WEEK: true
-        SHOW_LANGUAGE: true
-        SHOW_EDITORS: true
-        SHOW_OS: true
+        SHOW_LANGUAGE: false
+        SHOW_EDITORS: false
+        SHOW_OS: false
         SHOW_PROJECTS: false
         SHOW_LANGUAGE_PER_REPO: true
         SHOW_UPDATE_DATE: true
