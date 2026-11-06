@@ -12,9 +12,9 @@
  **🤓 My Personal GitHub Info** 
 
 ```properties
-🏆 9834 Personal contributions in the last year
+🏆 9840 Personal contributions in the last year
 
-🛡️ 44188 Total contributions when i start a github profile
+🛡️ 44194 Total contributions when i start a github profile
 
 💾 9.26 MB Used in Github's Storage
 
@@ -31,30 +31,30 @@ Not Opted to hire
 ```
 📆 **I am human 👨‍💻** 
 ```text
-🌞 Morning   355 commits    ███████░░░░░░░░░░░░░░░░░   31.14%
+🌞 Morning   356 commits    ███████░░░░░░░░░░░░░░░░░   31.2%
 
-🌆 Daytime   358 commits    ███████░░░░░░░░░░░░░░░░░   31.4%
+🌆 Daytime   358 commits    ███████░░░░░░░░░░░░░░░░░   31.38%
 
-🌉 Evening   415 commits    █████████░░░░░░░░░░░░░░░   36.4%
+🌉 Evening   415 commits    █████████░░░░░░░░░░░░░░░   36.37%
 
 🌕 Night     12 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.05%
 ```
 
 📅 **I do my best effort on** Wednesday
  ```text
-Monday       198 commits    ████░░░░░░░░░░░░░░░░░░░░   16.84%
+Monday       198 commits    ████░░░░░░░░░░░░░░░░░░░░   16.82%
 
 Tuesday      96 commits     ▒░░░░░░░░░░░░░░░░░░░░░░   8.16%
 
-Wednesday    354 commits    ███████░░░░░░░░░░░░░░░░░   30.1%
+Wednesday    354 commits    ███████░░░░░░░░░░░░░░░░░   30.08%
 
-Thursday     166 commits    ▒░░░░░░░░░░░░░░░░░░░░░   14.12%
+Thursday     166 commits    ▒░░░░░░░░░░░░░░░░░░░░░   14.1%
 
-Friday       182 commits    ▒░░░░░░░░░░░░░░░░░░░░░   15.48%
+Friday       183 commits    ▒░░░░░░░░░░░░░░░░░░░░░   15.55%
 
-Saturday     49 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░   4.17%
+Saturday     49 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░   4.16%
 
-Sunday       131 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   11.14%
+Sunday       131 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   11.13%
 ```
 
 ***I Mostly Code in*** TypeScript 
@@ -89,7 +89,7 @@ TeX                      1 repo              ▒░░░░░░░░░░�
 
 
 ⌚ ***Last Stats Update on***
-Fri, 06 Nov 2026 03:01:10 GMT
+Fri, 06 Nov 2026 06:01:24 GMT
 <!--END_SECTION:waka-->
 
 <details>
@@ -262,10 +262,10 @@ Fri, 06 Nov 2026 03:01:10 GMT
 
 <h3>More..</h3>
 <p><img width="200" src="images/instagram-0.jpeg" /> <img width="200" src="images/instagram-1.jpeg" /> <img width="200" src="images/instagram-2.jpeg" /> <img width="200" src="images/instagram-3.jpeg" /></p>
-<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> 9°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;01d@2x.png" /><i>clear sky</i></b><br />Today, the sun rises at <b>오전 07:01</b> and sets at <b>오후 05:29</b>.</p>
+<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> 10°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;01d@2x.png" /><i>clear sky</i></b><br />Today, the sun rises at <b>오전 07:01</b> and sets at <b>오후 05:29</b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/eunchurn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/eunchurn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://soundcloud.com/eunchurn"><img alt="SoundCloud" src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 11월 6일 금요일 오후 12:01 GMT+9<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 11월 6일 금요일 오후 3:01 GMT+9<br />
 <p align="center"><img src="https://github.com/eunchurn/eunchurn/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/></p>
