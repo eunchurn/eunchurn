@@ -12,9 +12,9 @@
  **🤓 My Personal GitHub Info** 
 
 ```properties
-🏆 10194 Personal contributions in the last year
+🏆 10204 Personal contributions in the last year
 
-🛡️ 44548 Total contributions when i start a github profile
+🛡️ 44558 Total contributions when i start a github profile
 
 💾 9.30 MB Used in Github's Storage
 
@@ -29,32 +29,32 @@ Not Opted to hire
 🔄 33 Following 
 
 ```
-📆 **Maybe i am a vampire 🧛** 
+📆 **I am human 👨‍💻** 
 ```text
-🌞 Morning   0 commits         NaN%
+🌞 Morning   344 commits    ███████░░░░░░░░░░░░░░░░░   30.1%
 
-🌆 Daytime   0 commits         NaN%
+🌆 Daytime   350 commits    ███████░░░░░░░░░░░░░░░░░   30.62%
 
-🌉 Evening   0 commits         NaN%
+🌉 Evening   437 commits    █████████░░░░░░░░░░░░░░░   38.23%
 
-🌕 Night     0 commits         NaN%
+🌕 Night     12 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.05%
 ```
 
-📅 **I do my best effort on** 
+📅 **I do my best effort on** Wednesday
  ```text
-Monday       0 commits         NaN%
+Monday       203 commits    ████░░░░░░░░░░░░░░░░░░░░   17.2%
 
-Tuesday      0 commits         NaN%
+Tuesday      96 commits     ▒░░░░░░░░░░░░░░░░░░░░░░   8.14%
 
-Wednesday    0 commits         NaN%
+Wednesday    326 commits    ██████░░░░░░░░░░░░░░░░░░   27.63%
 
-Thursday     0 commits         NaN%
+Thursday     155 commits    ▒░░░░░░░░░░░░░░░░░░░░░   13.14%
 
-Friday       0 commits         NaN%
+Friday       199 commits    ████░░░░░░░░░░░░░░░░░░░░   16.86%
 
-Saturday     0 commits         NaN%
+Saturday     49 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░   4.15%
 
-Sunday       0 commits         NaN%
+Sunday       152 commits    ▒░░░░░░░░░░░░░░░░░░░░░   12.88%
 ```
 
 ***I Mostly Code in*** TypeScript 
@@ -89,7 +89,7 @@ TeX                      1 repo              ▒░░░░░░░░░░�
 
 
 ⌚ ***Last Stats Update on***
-Tue, 10 Nov 2026 03:01:15 GMT
+Tue, 10 Nov 2026 06:01:31 GMT
 <!--END_SECTION:waka-->
 
 <details>
@@ -262,10 +262,10 @@ Tue, 10 Nov 2026 03:01:15 GMT
 
 <h3>More..</h3>
 <p><img width="200" src="images/instagram-0.jpeg" /> <img width="200" src="images/instagram-1.jpeg" /> <img width="200" src="images/instagram-2.jpeg" /> <img width="200" src="images/instagram-3.jpeg" /></p>
-<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> 9°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;01d@2x.png" /><i>clear sky</i></b><br />Today, the sun rises at <b>오전 07:05</b> and sets at <b>오후 05:26</b>.</p>
+<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> 13°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;01d@2x.png" /><i>clear sky</i></b><br />Today, the sun rises at <b>오전 07:05</b> and sets at <b>오후 05:26</b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/eunchurn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/eunchurn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://soundcloud.com/eunchurn"><img alt="SoundCloud" src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 11월 10일 화요일 오후 12:00 GMT+9<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 11월 10일 화요일 오후 3:01 GMT+9<br />
 <p align="center"><img src="https://github.com/eunchurn/eunchurn/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/></p>
