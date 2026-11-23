@@ -4,6 +4,8 @@
 
 <p>Welcome to my page! </br> I'm Eunchurn, Senior fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="13"/> <b>Seoul, Korea</b>. </p>
 
+[![sophonz terminal usage](https://link.sophonz.io/badge/u/vgz76ndv6d7c46z7oyl76znueq.svg)](https://sophonz.io)
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile_Views-3-red)
 
