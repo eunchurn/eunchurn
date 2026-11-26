@@ -14,17 +14,17 @@
  **🤓 My Personal GitHub Info** 
 
 ```properties
-🏆 11745 Personal contributions in the last year
+🏆 11756 Personal contributions in the last year
 
-🛡️ 46099 Total contributions when i start a github profile
+🛡️ 46712 Total contributions when i start a github profile
 
-💾 9.32 MB Used in Github's Storage
+💾 9.33 MB Used in Github's Storage
 
 Not Opted to hire
 
 📖 138 Public repos 
 
-🔐 253 Private repos 
+🔐 254 Private repos 
 
 🔃 38 Followers 
 
@@ -33,30 +33,30 @@ Not Opted to hire
 ```
 📆 **I am human 👨‍💻** 
 ```text
-🌞 Morning   414 commits    ███████░░░░░░░░░░░░░░░░░   31.77%
+🌞 Morning   460 commits    ████████░░░░░░░░░░░░░░░░   33.19%
 
-🌆 Daytime   411 commits    ███████░░░░░░░░░░░░░░░░░   31.54%
+🌆 Daytime   432 commits    ███████░░░░░░░░░░░░░░░░░   31.17%
 
-🌉 Evening   466 commits    ████████░░░░░░░░░░░░░░░░   35.76%
+🌉 Evening   478 commits    ████████░░░░░░░░░░░░░░░░   34.49%
 
-🌕 Night     12 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.92%
+🌕 Night     16 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.15%
 ```
 
 📅 **I do my best effort on** Wednesday
  ```text
-Monday       231 commits    ████░░░░░░░░░░░░░░░░░░░░   16.86%
+Monday       249 commits    ████░░░░░░░░░░░░░░░░░░░░   17.14%
 
-Tuesday      119 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   8.69%
+Tuesday      126 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   8.67%
 
-Wednesday    363 commits    ██████░░░░░░░░░░░░░░░░░░   26.5%
+Wednesday    373 commits    ██████░░░░░░░░░░░░░░░░░░   25.67%
 
-Thursday     213 commits    ▒░░░░░░░░░░░░░░░░░░░░░   15.55%
+Thursday     226 commits    ▒░░░░░░░░░░░░░░░░░░░░░   15.55%
 
-Friday       233 commits    ████░░░░░░░░░░░░░░░░░░░░   17.01%
+Friday       257 commits    ████░░░░░░░░░░░░░░░░░░░░   17.69%
 
-Saturday     57 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░   4.16%
+Saturday     60 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░   4.13%
 
-Sunday       154 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   11.24%
+Sunday       162 commits    ▒░░░░░░░░░░░░░░░░░░░░░░   11.15%
 ```
 
 ***I Mostly Code in*** TypeScript 
@@ -91,7 +91,7 @@ TeX                      1 repo              ▒░░░░░░░░░░�
 
 
 ⌚ ***Last Stats Update on***
-Thu, 26 Nov 2026 09:01:10 GMT
+Thu, 26 Nov 2026 12:01:20 GMT
 <!--END_SECTION:waka-->
 
 <details>
@@ -264,10 +264,10 @@ Thu, 26 Nov 2026 09:01:10 GMT
 
 <h3>More..</h3>
 <p><img width="200" src="images/instagram-0.jpeg" /> <img width="200" src="images/instagram-1.jpeg" /> <img width="200" src="images/instagram-2.jpeg" /> <img width="200" src="images/instagram-3.jpeg" /></p>
-<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> 13°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;01n@2x.png" /><i>clear sky</i></b><br />Today, the sun rises at <b>오전 07:22</b> and sets at <b>오후 05:15</b>.</p>
+<p>posted by <a href="https://www.instagram.com/eunchurn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @eunchurn!</a><br />Seoul, currently: <b> 11°C, <img width="20" src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;01n@2x.png" /><i>clear sky</i></b><br />Today, the sun rises at <b>오전 07:22</b> and sets at <b>오후 05:15</b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/eunchurn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/eunchurn" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://soundcloud.com/eunchurn"><img alt="SoundCloud" src="https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 11월 26일 목요일 오후 6:00 GMT+9<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 11월 26일 목요일 오후 9:01 GMT+9<br />
 <p align="center"><img src="https://github.com/eunchurn/eunchurn/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/eunchurn/eunchurn?style=flat-square&labelColor=343b41"/></p>
